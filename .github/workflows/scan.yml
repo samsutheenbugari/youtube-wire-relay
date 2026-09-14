@@ -1,0 +1,175 @@
+name: Collect YouTube feed
+
+on:
+  schedule:
+    # 20 min ahead of each Cowork scan (which runs at :30 UTC)
+    # UTC 01:10, 03:10 … 17:10  =  IST 06:40, 08:40 … 22:40
+    - cron: "10 1,3,5,7,9,11,13,15,17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-feed
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect feed.json
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: |
+          python3 - <<'PYEOF'
+          import datetime, json, os, re, sys, urllib.error, urllib.parse, urllib.request
+
+          KEY = os.environ.get("YT_API_KEY", "").strip()
+          if not KEY:
+              sys.exit("YT_API_KEY secret is not set on this repository.")
+
+          LOOKBACK_HOURS = 26   # covers the 8-hour overnight gap, with slack
+          MIN_SECONDS    = 180  # skip anything under 3 minutes
+          PER_CHANNEL    = 10   # newest N uploads to inspect per channel
+
+          # (display name, uploads playlist id, priority)
+          # UULF… is the long-form-only uploads playlist, so Shorts never appear.
+          CHANNELS = [
+              ("Dr. Sahar Yousef",    "UULFT_CnzzlO6Zd4VXqwo7xSfQ", "high"),
+              ("Huberman Lab",        "UULF2D2CMWXMOVWx7giW1n3LIg", "high"),
+              ("Krish Naik",          "UULFNU_lfiiWBdtULKOw6X0Dig", "high"),
+              ("Tech With Tim",       "UULF4JX40jDee_tINbkjycV4Sg", "high"),
+              ("Andrej Karpathy",     "UULFXUPKJO5MZQN11PqgIvyuvQ", "high"),
+              ("Y Combinator",        "UULFcefcZRL2oaA_uBNeo5UOWg", "high"),
+              ("The AI Dude - Tamil", "UULFsq38VCprHHb_0rwBNfWFYw", "high"),
+              ("AI with Thiru",       "UULFY8kgTLO7GitoKuxz4Cw3uQ", "high"),
+              ("Raj Shamani",         "UULFzwCEE_PchiBULMnAJqhGVg", "medium"),
+              ("Think School",        "UULFKZozRVHRYsYHGEyNKuhhdA", "medium"),
+              ("The Diary Of A CEO",  "UULFGq-a57w-aPwyi3pW7XLiHw", "medium"),
+              ("Ali Abdaal",          "UULFoOae5nYA7VqaXzerajD0lg", "medium"),
+              ("Dr David Jockers",    "UULFIAZtlZSFlnBp_hAlvB6QSw", "low"),
+              ("GaryVee",             "UULFctXZhXmG-kf3tlIXgVZUlw", "low"),
+              ("Jay Shetty Podcast",  "UULFbk_QsfaFZG6PdQeCvaYXJQ", "low"),
+          ]
+
+          RANK = {"high": 0, "medium": 1, "low": 2}
+          API  = "https://www.googleapis.com/youtube/v3/"
+
+          def api(path, params):
+              params = dict(params); params["key"] = KEY
+              url = API + path + "?" + urllib.parse.urlencode(params)
+              req = urllib.request.Request(url, headers={"Accept": "application/json"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return json.load(r)
+
+          def dur_seconds(iso):
+              m = re.match(r"^P(?:(\d+)D)?T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$", iso or "")
+              if not m:
+                  return 0
+              d, h, mi, s = (int(x) if x else 0 for x in m.groups())
+              return d * 86400 + h * 3600 + mi * 60 + s
+
+          def human(sec):
+              h, rest = divmod(sec, 3600); m, s = divmod(rest, 60)
+              return "%d:%02d:%02d" % (h, m, s) if h else "%d:%02d" % (m, s)
+
+          now    = datetime.datetime.now(datetime.timezone.utc)
+          cutoff = now - datetime.timedelta(hours=LOOKBACK_HOURS)
+          hits, errors = [], []
+
+          for name, playlist, priority in CHANNELS:
+              try:
+                  data = api("playlistItems", {"part": "contentDetails",
+                                               "playlistId": playlist,
+                                               "maxResults": PER_CHANNEL})
+              except urllib.error.HTTPError as e:
+                  body = ""
+                  try:
+                      body = e.read().decode("utf-8", "replace")[:200]
+                  except Exception:
+                      pass
+                  errors.append("%s: HTTP %s %s" % (name, e.code, body)); continue
+              except Exception as e:
+                  errors.append("%s: %s" % (name, e)); continue
+
+              for item in data.get("items", []):
+                  cd  = item.get("contentDetails") or {}
+                  vid = cd.get("videoId"); pub = cd.get("videoPublishedAt")
+                  if not vid or not pub:
+                      continue
+                  when = datetime.datetime.fromisoformat(pub.replace("Z", "+00:00"))
+                  if when > cutoff:
+                      hits.append({"channel": name, "priority": priority,
+                                   "videoId": vid, "publishedAt": pub})
+
+          videos = []
+          if hits:
+              ids = [h["videoId"] for h in hits]
+              details = {}
+              for i in range(0, len(ids), 50):
+                  try:
+                      d = api("videos", {"part": "snippet,contentDetails",
+                                         "id": ",".join(ids[i:i + 50])})
+                  except Exception as e:
+                      errors.append("videos.list: %s" % e); continue
+                  for v in d.get("items", []):
+                      details[v["id"]] = v
+
+              for h in hits:
+                  v = details.get(h["videoId"])
+                  if not v:
+                      continue
+                  secs = dur_seconds((v.get("contentDetails") or {}).get("duration"))
+                  if secs < MIN_SECONDS:
+                      continue
+                  sn = v.get("snippet") or {}
+                  e = dict(h)
+                  e.update({"title": sn.get("title") or "",
+                            "url": "https://www.youtube.com/watch?v=" + h["videoId"],
+                            "durationSeconds": secs,
+                            "duration": human(secs),
+                            "description": (sn.get("description") or "")[:6000]})
+                  videos.append(e)
+
+          videos.sort(key=lambda x: (RANK[x["priority"]], x["publishedAt"]))
+
+          out = {"collectedAt": now.isoformat().replace("+00:00", "Z"),
+                 "lookbackHours": LOOKBACK_HOURS,
+                 "windowStart": cutoff.isoformat().replace("+00:00", "Z"),
+                 "channelsTracked": len(CHANNELS),
+                 "channelsFailed": errors,
+                 "videoCount": len(videos),
+                 "videos": videos}
+
+          with open("feed.json", "w", encoding="utf-8") as f:
+              json.dump(out, f, indent=2, ensure_ascii=False); f.write("\n")
+
+          print("collected %d video(s) from %d/%d channels"
+                % (len(videos), len(CHANNELS) - len(errors), len(CHANNELS)))
+          for msg in errors:
+              print("  ERROR", msg)
+          for v in videos:
+              print("  [%-6s] %8s  %s  %s | %s"
+                    % (v["priority"], v["duration"], v["publishedAt"],
+                       v["channel"], v["title"][:60]))
+
+          # Red only if literally everything failed — a flaky channel or two
+          # shouldn't fail the workflow.
+          if len(errors) >= len(CHANNELS):
+              sys.exit("every channel failed")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "youtube-wire-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "feed: $(python3 -c "import json;d=json.load(open('feed.json'));print('%d video(s) @ %s' % (d['videoCount'], d['collectedAt']))")"
+            git push
+          fi
