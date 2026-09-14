@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-14T14:05:03.265493Z",
+  "collectedAt": "2026-09-14T19:49:28.431847Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-13T12:05:03.265493Z",
+  "windowStart": "2026-09-13T17:49:28.431847Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 8,
   "videos": [
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "278JL5n5-P8",
-      "publishedAt": "2026-09-13T15:53:46Z",
-      "title": "AI-ஐ AI-யே Build Pannuthu - Anthropic CEO Warning Explained (தமிழில் )",
-      "url": "https://www.youtube.com/watch?v=278JL5n5-P8",
-      "durationSeconds": 402,
-      "duration": "6:42",
-      "description": "Essay - https://darioamodei.com/post/we-must-pace-the-frontier\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131"
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -40,11 +29,22 @@
       "description": "Hyperagent is giving away $100 in bonus credits when you sign up for a paid plan. Claim yours here: https://www.hyperagent.com/techwithtim\"\n\nBy the time I sat down to review a sponsorship deal, my AI agents had already researched the company, run a full safety audit, generated three video concepts, and wrapped it all into a presentation I could review in under two minutes. I didn't prompt them. I didn't check in. They just did it.\n\nIn this video I walk you through the exact 4-agent team I built on Hyper Agent that now handles my entire sponsorship pipeline — and show you how to build it yourself.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:57 | What I'm Automating\n01:52 | My AI Agent Team\n05:10 | Building an Agent From Scratch\n08:34 | Connecting to Slack\n09:46 | Chaining Agents\n11:00 | Full Workflow\n12:03 | Self Learning\n14:02 | Analysis & Thoughts\n\nHashtags\n#AIAgents #HyperAgent #AIAutomation\n\nUAE Media License Number: 3635141"
     },
     {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "SwoLVf0Q1yQ",
+      "publishedAt": "2026-09-14T15:05:10Z",
+      "title": "AI Image Generation Without AI Slop | SIP Prompt Framework (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=SwoLVf0Q1yQ",
+      "durationSeconds": 767,
+      "duration": "12:47",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nBest Image Prompt Structure\n\nSIP (Style, Intent, Parameter)\n\nSTYLE – Visual Direction\n\n1. Minimalist\n2. Swiss\n3. Editorial\n4. Brutalist\n5. Premium, Cinematic\n\n\nINTENT – Tell AI what to design\n\nBold\nTrust\nUrgency\nFuturistic\nLuxury\nCuriosity\n\n\nPARAMETER\n\nLayout\nTypography\nColors\nSpacing\nSubject\nAspect Ratio\n\n\nANTI-SLOP\n\n1. No Gradients\n2. No Neon Glow\n3. No 3D Text\n4. No Floating Particles\n5. No Generic Futuristic Elements\n6. No Random Icons\n7. No Excessive Shadows\n8. No Unnecessary Decoration\n9. No Clutter\n10. No Fake UI\n11. No Stock-Poster Aesthetic\n\n\nSIP = Style + Intent + Parameter\n\nSimple formula:\n\n[STYLE] + [INTENT] + [PARAMETERS] + [ANTI-SLOP]\n\nUse this framework to create cleaner, intentional and professional AI-generated images instead of generic AI-looking designs."
+    },
+    {
       "channel": "The Diary Of A CEO",
       "priority": "medium",
       "videoId": "C5o3tgr-AgI",
       "publishedAt": "2026-09-14T07:00:11Z",
-      "title": "Professor Jiang Predicts: Japan Is About To Go To War",
+      "title": "The Man Who Predicted The Iran War: The Next 9/11 Will Target Your Bank Account! | Professor Jiang",
       "url": "https://www.youtube.com/watch?v=C5o3tgr-AgI",
       "durationSeconds": 6483,
       "duration": "1:48:03",
@@ -60,6 +60,39 @@
       "durationSeconds": 1023,
       "duration": "17:03",
       "description": "Sign up on CoinDCX using the link below and get ₹100 worth of Bitcoin after completing your KYC.\n\n⭐️ Sign-up link: https://download.coindcx.com/eXsN/CoinDCXBTC100\n⭐️ Use coupon code: COINDCXBTC100\n\nOffer valid till: 10th October 2026\n\n⭐️ Think School’s flagship Communication course with live doubt sessions :\nhttps://thethinkschool.com/sp/communication-masterclass/\n\nIf you are a copyright owner and believe your work has been used improperly, please contact us at writers@thethinkschool.com for prompt removal or credit. \n\nVIDEO INTRODUCTION:\nIn late 2023, a journalist scrolling through satellite photos of the Himalayas noticed something odd. In the snow-capped mountains of Bhutan, there's a building that shouldn't exist. It's not on any map. No signage and no visitors. It turned out to be a government-run Bitcoin mine. And that one discovery... cracked open one of the strangest economic stories on Earth. Because Bhutan isn't supposed to be this place. It’s known as the last Himalayan Kingdom and a land of monasteries and tourism. So why was this kingdom — of all kingdoms — secretly mining Bitcoin? And how did it secretly become one of the largest holders of Bitcoin on the entire planet?\nPeople, Bhutan is one of the most beautiful poor countries in the world!! Now think about this: India was poor because of 200 years of colonisation, but Bhutan was never colonised. No war ever destroyed it and no dictator looted it. Bhutan was poor simply because of geography. Look at this, 90% of Bhutan is only mountains, they have no sea, no port, no plains and no highway to anywhere. And that means nothing that Bhutan makes can ever leave the country. So do you realise?? Bhutan is meant to be poor by design!! Every country on Earth gets rich through three methods — they either farm like Argentina, manufacture like China, or provide services like India's IT industry. But Bhutan cannot do any of this because services need a large, educated population, and Bhutan just had 11 schools. Manufacturing needs ports, and Bhutan has no ports. Agriculture needs farmland — but 97% of Bhutan's land cannot grow anything at all!!! This is the reason why Bhutan was always poor!!\nSo you know what they did? While every other poor country tried to grow crops, Bhutan chose the most absurd business that nobody wanted, and that was Bitcoin mining!!! Bitcoin mining, btw, is such a dangerous business that even rich countries like Sweden increased electricity tax by 6000% to stop it, oil-rich countries like Kuwait banned it, and even China banned its mining due to environmental reasons. So the question is, why were the richest countries in the world scared of Bitcoin? Why did Bhutan choose to mine Bitcoin,\n\n\nOur Best Indian Business Case Studies:\n1. Dhirubhai \nhttps://youtu.be/bSx6hDjALkQ?si=wE6PGMgiv7PpHdla\n2. Milky mist\nhttps://youtu.be/-98fnc4VAo8?si=NtKHTWjvtr_9V8ne\n3. Old Monk\nhttps://youtu.be/GQPymbqa08A?si=BXhcZhDPXt9wTxO4\n4. Waaree\nhttps://youtu.be/T1PLEPTbXc4?si=3VbRKyBnd-3Trfqt\n5. Blinkit \nhttps://youtu.be/OGs2YsqvWDg?si=bZ_AqkdGEsl2X3xW\n\n\n✅Study Materials:\nhttps://www.mea.gov.in/bilateral-documents?dtl/6349/Agreement#:~:text=The%20Government%20of%20India%20agree%20to%20provide%20funds%20for%20the%20financing%20of%20the%20project.%20For%20this%20purpose%20the%20Government%20of%20India%20will%20make%20available%20to%20the%20Royal%20Government%20of%20Bhutan%20a%20sum%20equivalent%20to%2060%25 \nhttps://www.macrotrends.net/global-metrics/countries/btn/bhutan/gdp-per-capita \nhttps://charts.bitbo.io/price/ \nhttps://cea.nic.in/wp-content/uploads/hpi/2024/09/Hydro_Electric_Potential_Development_Basin_wise.pdf \n\n\n\n\nThink School is a Digital School that we all deserved, but never had\n►►Check out Think School's Online courses: https://www.thethinkschool.com\n\n\n\n#thinkschool #businesscasestudy #geopolitics\n\nCredits: CNN-News 18, WION, NBC News, Money control pro, Business standard, TV18,Business Today, ABC news, CNBC, ET now ,Bloomberg originals, Financial Times, DW documentary, AL Jazeera English, BBC news, Firstpost."
+    },
+    {
+      "channel": "Ali Abdaal",
+      "priority": "medium",
+      "videoId": "w0q7fsLa26E",
+      "publishedAt": "2026-09-14T17:03:48Z",
+      "title": "Watch this to get your first client",
+      "url": "https://www.youtube.com/watch?v=w0q7fsLa26E",
+      "durationSeconds": 1337,
+      "duration": "22:17",
+      "description": "INSTRUCTIONS for video description (delete this when actioned) - Sponsor is the first 2 lines usually. THEN we have 2 links - LBA and Superfocus, with UTMs baked in. IMPORTANT: replace VIDEOID with the Video ID of this YouTube video!!! It's the thing after \"watch?v=\" - this is the UNIQUE ID of this YouTube video, which MUST go into the URL. Important thing 2: if this is a biz video, LBA should be the first link (default). if it's a productivity/personal dev video, make superfocus the first link, and lba underneath it. no need for line breaks between them. No need to shortIO for the video description.\n\nSponsor - first 2 lines usually. \n\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business → https://lifestylebusiness.com/academy?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=VIDEOID\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time → https://superfocus.me/?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=VIDEOID\n\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS → https://go.aliabdaal.com/lifeos/ytd\n🤑 Grow / Monetise your YouTube Channel → https://go.aliabdaal.com/PTYA/yt\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free → https://go.aliabdaal.com/voicepal/ytd\n\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) → https://go.feelgoodproductivity.com/amazon/yt\n\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning: https://go.aliabdaal.com/lifenotes/yt\n📸  Instagram: https://instagram.com/aliabdaal\n📱 TikTok: https://www.tiktok.com/@aliabdaal\n👨‍💻 Linkedin: https://www.linkedin.com/in/ali-abdaal/\n🐥 X/Twitter: https://x.com/aliabdaal\n🌍  My website / blog: https://www.aliabdaal.com/\n\n---\nVideo description goes here - aim for 4-5 lines.\n\n🔗 LINKS MENTIONED IN THIS VIDEO\n\n⌚️ TIMESTAMPS \n00:00 Intro\n\nPS: I donate 10% of my income to charity every year. Would you like to join me? Learn more about the 10% Pledge: https://aliabdaal.com/giving-what-we-can/"
+    },
+    {
+      "channel": "Jay Shetty Podcast",
+      "priority": "low",
+      "videoId": "K1FWEHIgNZE",
+      "publishedAt": "2026-09-14T15:30:09Z",
+      "title": "YOU'RE NOT LAZY! How to Never Be Broke, Stuck & Exhausted Again | Dr. Joe Dispenza",
+      "url": "https://www.youtube.com/watch?v=K1FWEHIgNZE",
+      "durationSeconds": 2905,
+      "duration": "48:25",
+      "description": "Ninety percent of the thoughts you'll think today are the same ones you thought yesterday.\nA thought you keep thinking becomes a belief.\nA belief you stop questioning becomes automatic.\nAnd an automatic belief runs your life without ever asking your permission.\n\nIn this clip, Dr. Joe Dispenza and Jay Shetty talk about what actually happens in your body the moment you refuse a thought you've believed for years, and why it feels so bad that most people quietly go back to it within a day.\n\nJoe explains why your body craves the feeling of being unworthy, why the brain checks your outer world for proof and gives up when it doesn't find any, and what he means when he says the body has to be trained like an animal.\n\nLearn about the brain wave state he calls the operating system, why he says you can teach your body to feel worthy before anything in your life changes, and what his team found when they measured 1,800 people's blood, brain scans and gene expression before and after a week of this work.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — Why the same thought becomes a belief\n2:33 — What change actually feels like\n5:44 — Your brain can't tell rehearsal from real life\n6:21 — Feeling worthy before anything changes\n8:07 — What seven days of immersion does\n10:13 — The real question isn't whether you react\n12:23 — Why emotions keep you living in the past\n14:15 — A habits crisis, not a values crisis\n15:59 — Getting into the operating system\n19:08 — The emotions made of stress\n21:02 — \"I can't meditate\" and what's behind it\n23:29 — When the energy reaches the heart\n26:46 — Inside the largest meditation studies ever run\n31:22 — Why healed conditions sometimes return\n36:22 — Victim or creator in the same moment\n41:36 — The changes that show up before the scans\n45:46 — Why community is hard from survival\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Dr. Joe Dispenza:\nhttps://youtu.be/d7sUWwHugg8"
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "DQv297mCVR4",
+      "publishedAt": "2026-09-14T16:12:20Z",
+      "title": "21-Day Biblical Fast Makes You Feel Decades Younger",
+      "url": "https://www.youtube.com/watch?v=DQv297mCVR4",
+      "durationSeconds": 1221,
+      "duration": "20:21",
+      "description": "✅ Free Fasting Quickstart Guide:  https://shorturl.at/WyYH2\n✅Check out My Electrolyte Guide:  https://drjockers.com/electrolytes/\n✅Re-Lyte:  https://redmond.life/drjockers\nUse coupon code JOCKERS at checkout for 15% off your order\n\nChurches run the Daniel Fast every January, and when researchers finally put it in a lab, total cholesterol dropped from 171 to 138 and LDL from 98 to 76 in three weeks… with people reporting their 3 o'clock crash gone, deeper sleep, and aches they'd written off as age going quiet. \n\nBut there's a cost buried in that same paper nobody quotes, and it's the reason I wouldn't run this protocol over 50 the way it's written. \n\nThe fix takes one meal a day and keeps every single benefit. Then I'll show you the only fast God Himself ever commanded, which isn't 21 days but 24 hours, and raises the one hormone most responsible for why you felt different at 40 by as much as five fold. \n\n00:00 📖 The Daniel Fast: Biblical Origins\n00:39 🥗 What You Eat vs. Time-Based Fasting\n01:47 🔬 Why It Works: Insulin & Duration\n03:39 ⚠️ The Hidden Downsides (Muscle & HDL)\n05:51 💪 The Upgrade: Adding Protein for Over 50s\n07:39 🕯️ The 24-Hour Fast God Actually Commanded\n10:16 📈 Growth Hormone & Muscle Protection\n11:56 🍽️ The One-Day Fast Protocol\n13:26 ⚖️ Combining Both Fasts: My Recommendation\n15:53 ❓ Common Questions Answered\n20:10 🙏 Final Thoughts & Prayer\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
