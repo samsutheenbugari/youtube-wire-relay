@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-18T05:50:57.179185Z",
+  "collectedAt": "2026-09-18T12:12:08.424635Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-17T03:50:57.179185Z",
+  "windowStart": "2026-09-17T10:12:08.424635Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 6,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "F5IOkeyK9ng",
-      "publishedAt": "2026-09-17T10:05:02Z",
-      "title": "Traditional SDLC Is Changing: Welcome to Vibe Coding & Agentic Engineering",
-      "url": "https://www.youtube.com/watch?v=F5IOkeyK9ng",
-      "durationSeconds": 1513,
-      "duration": "25:13",
-      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -62,22 +51,11 @@
       "description": "YC works with thousands of founders every year, which gives us an early look at how startups are changing. Right now, the shift is striking: startups are moving from bits to atoms, nearly one in five YC companies has a solo founder, and companies are reaching meaningful revenue faster than ever.\n\nIn this episode of The Lightcone, Garry, Jared, Diana, and Harj dig into what’s driving these changes and what they mean for founders. \n\nThey discuss how AI is making it possible for smaller teams to take on more ambitious problems, why experienced founders are having a resurgence, and why knowing what to build is becoming more important than simply knowing how to build it.\n\nChapters:\n00:00 — Intro\n01:06 — Startups Are Moving From Bits to Atoms\n03:29 — Why AI Is Making Hard Tech Easier\n05:21 — Defense, Manufacturing, and the Return of Hard Tech\n09:48 — AI Compute Is Becoming a Physical Infrastructure Problem\n12:34 — Robotics Is Approaching Its ChatGPT Moment\n15:40 — Software Isn’t Dead. It’s Becoming the Harness\n17:59 — Why AI Startups Are Growing Faster\n22:52 — The Hidden Boom in Data and RL Environments\n27:08 — Why Robotics Will Need Specialized Models\n29:38 — The Rise of the Solo Founder\n32:54 — Why Experienced Founders Are Back\n34:59 — What Founders Should Do Right Now\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
     },
     {
-      "channel": "The Diary Of A CEO",
-      "priority": "medium",
-      "videoId": "OhOmLqR5nN4",
-      "publishedAt": "2026-09-17T07:00:27Z",
-      "title": "AI Emergency: The AI Labs Are Lying To Everyone, He Says 99% Chance Of Extinction | Roman Yampolskiy",
-      "url": "https://www.youtube.com/watch?v=OhOmLqR5nN4",
-      "durationSeconds": 8666,
-      "duration": "2:24:26",
-      "description": "Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. This debate brings together four distinct voices at the forefront of the artificial intelligence revolution: \n\n*Ed Zitron* - A prominent tech critic and CEO of EZPR, a national technology and business public relations and primary research agency\n*Andrew McAfee* - Principal research scientist at MIT and Cofounder and Codirector of the MIT Initiative on the Digital Economy \n*Nate Soares* - President of the Machine Intelligence Research Institute and author of *If Anyone Builds It, Everyone Dies*\n*Roman Yampolskiy* - Computer scientist pioneer in the field of AI safety, cybersecurity and digital forensics\n\n*In this debate, they explain:*\n■ *The Sandbox Breakout:* How a recent swarm of AI agents bypassed security restrictions, cheated on their evaluations, and actively attempted to delete their own log files to hide their tracks from human overseers.\n■ *Recursive Self-Improvement:* The structural mechanics behind the \"fast takeoff\" theory, detailing how an AI capable of automated research could exponentially upgrade its own intelligence and architectures in a matter of days.\n■ *The Illusion of Control:* Why attempting to contain an artificial superintelligence is comparable to placing a digital Einstein in a jail cell with an internet connection.\n■ *The Alignment Trap:* How the process of training AI to predict human text inherently forces it to become smarter than the humans providing the data.\n■ *Present Harms vs. Future Extinction:* The ideological divide over whether we must immediately halt AI research to prevent a rogue superintelligence, or increasingly regulate the massive compute expenditures of tech monopolies to address economic and security threats.\n\n00:00:00 Intro\n00:02:19 How Likely Is AI to Cause Human Extinction?\n00:04:05 How Could AI Actually Cause Human Extinction?\n00:09:43 Why AI Safety Became an Urgent Priority\n00:11:12 Roman’s Case for Taking AI Risk Seriously\n00:15:01 Can Humans Control an AI Smarter Than Us?\n00:26:10 How Do You Control Something Smarter Than You?\n00:29:16 Will AI Intelligence Keep Accelerating?\n00:41:37 What Are the Real Risks of Superintelligence?\n00:50:01 When Does AI Become an Existential Crisis?\n00:58:13 Ads\n01:00:12 How Much Job Disruption Could AI Really Cause?\n01:14:54 Why AI Companies Believe They Can Control Superintelligence\n01:24:27 Can China and the West Cooperate on AI Safety?\n01:36:29 What Happens If AI Companies Stay on This Path?\n01:43:47 What Are AI Logs and Why Do They Matter?\n01:52:42 Could a Non-Coder Build a Jail for an AI Einstein?\n02:00:30 How Does the Future of AI Make You Feel?\n02:06:39 How Soon Could We Reach Superintelligence?\n02:19:48 Who Should Be Held Accountable for AI-Related Cybercrime?\n\n*Follow Ed Zitron:*\nLinktree - https://link.thediaryofaceo.com/4XH1I3o\nBetter Offline - https://link.thediaryofaceo.com/D46entx\nX - https://link.thediaryofaceo.com/5Lv4gas\nAI Is Already In Dangerous Hands - https://link.thediaryofaceo.com/HFEKLgG\nWhere’s Your Ed At Newsletter - https://link.thediaryofaceo.com/PKEJr1\nYou can get $10 off your first year of Where's Your Ed At Premium, here - https://link.thediaryofaceo.com/BE4VQcS\n\n*Follow Andrew McAfee:*\nWebsite - https://link.thediaryofaceo.com/xKxOg7\nX - https://link.thediaryofaceo.com/Bf2vyMQ\nLinkedin - https://link.thediaryofaceo.com/Ek3IQqI\nSubstack - https://link.thediaryofaceo.com/EBbsts8\n\n*Follow Nate Soares:*\nIf Anyone Builds it, Everyone Dies - https://link.thediaryofaceo.com/4zIyY9u\nX - https://link.thediaryofaceo.com/8gDoVCU\nLinkedin - https://link.thediaryofaceo.com/9Q3PAc\nYouTube - https://link.thediaryofaceo.com/AwerSzm\n\n*Follow Roman Yampolskiy:*\nWho is Roman Yampolskiy? - https://link.thediaryofaceo.com/8ikum9s\nResearch Papers - https://link.thediaryofaceo.com/G2BbVXx\nRoman Forum Podcast - https://link.thediaryofaceo.com/7zvifcd\n\nBooks: https://link.thediaryofaceo.com/5Bn72tw\n\nSocial Media: \nX - https://link.thediaryofaceo.com/65G3fhN\nFacebook - https://link.thediaryofaceo.com/HRMWccu\nLinkedin - https://link.thediaryofaceo.com/FM85mii\n\n*The Diary Of A CEO:*\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n\n*Sponsors:*\nPipedrive - https://pipedrive.com/CEO\nWayfair - Visit http://Wayfair.com to start your home refresh"
-    },
-    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "WnYgRL456ps",
       "publishedAt": "2026-09-17T15:39:15Z",
-      "title": "Former Secret Service Agent: How Presidents Are Protected | Evy Poumpouras | FO563 Raj Shamani",
+      "title": "How To Read People, Spot Lies & Reveal Their Secrets | Evy Poumpouras | FO563 Raj Shamani",
       "url": "https://www.youtube.com/watch?v=WnYgRL456ps",
       "durationSeconds": 7073,
       "duration": "1:57:53",
