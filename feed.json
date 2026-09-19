@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-09-19T05:46:44.990030Z",
+  "collectedAt": "2026-09-19T11:54:24.447670Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-18T03:46:44.990030Z",
+  "windowStart": "2026-09-18T09:54:24.447670Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 5,
@@ -22,7 +22,7 @@
       "priority": "high",
       "videoId": "iXdb4vK49wU",
       "publishedAt": "2026-09-18T14:00:40Z",
-      "title": "If You're Feeling Overwhelmed Watch This",
+      "title": "This Will Find You When You Need it Most",
       "url": "https://www.youtube.com/watch?v=iXdb4vK49wU",
       "durationSeconds": 196,
       "duration": "3:16",
