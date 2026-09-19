@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-18T19:33:13.558570Z",
+  "collectedAt": "2026-09-19T05:46:44.990030Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-17T17:33:13.558570Z",
+  "windowStart": "2026-09-18T03:46:44.990030Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 5,
   "videos": [
-    {
-      "channel": "Y Combinator",
-      "priority": "high",
-      "videoId": "yslXlV2BP_Y",
-      "publishedAt": "2026-09-17T17:58:14Z",
-      "title": "The State of Startups in 2026",
-      "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
-      "durationSeconds": 2189,
-      "duration": "36:29",
-      "description": "YC works with thousands of founders every year, which gives us an early look at how startups are changing. Right now, the shift is striking: startups are moving from bits to atoms, nearly one in five YC companies has a solo founder, and companies are reaching meaningful revenue faster than ever.\n\nIn this episode of The Lightcone, Garry, Jared, Diana, and Harj dig into what’s driving these changes and what they mean for founders. \n\nThey discuss how AI is making it possible for smaller teams to take on more ambitious problems, why experienced founders are having a resurgence, and why knowing what to build is becoming more important than simply knowing how to build it.\n\nChapters:\n00:00 — Intro\n01:06 — Startups Are Moving From Bits to Atoms\n03:29 — Why AI Is Making Hard Tech Easier\n05:21 — Defense, Manufacturing, and the Return of Hard Tech\n09:48 — AI Compute Is Becoming a Physical Infrastructure Problem\n12:34 — Robotics Is Approaching Its ChatGPT Moment\n15:40 — Software Isn’t Dead. It’s Becoming the Harness\n17:59 — Why AI Startups Are Growing Faster\n22:52 — The Hidden Boom in Data and RL Environments\n27:08 — Why Robotics Will Need Specialized Models\n29:38 — The Rise of the Solo Founder\n32:54 — Why Experienced Founders Are Back\n34:59 — What Founders Should Do Right Now\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
-    },
     {
       "channel": "AI with Thiru",
       "priority": "high",
