@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-22T06:06:09.869056Z",
+  "collectedAt": "2026-09-22T12:33:26.352226Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-21T04:06:09.869056Z",
+  "windowStart": "2026-09-21T10:33:26.352226Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 9,
+  "videoCount": 7,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "2vYV4K1RQ1w",
-      "publishedAt": "2026-09-21T10:21:13Z",
-      "title": "Will Jev Replace LLM's? What is Jev From TypeSafe AI",
-      "url": "https://www.youtube.com/watch?v=2vYV4K1RQ1w",
-      "durationSeconds": 1407,
-      "duration": "23:27",
-      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -60,17 +49,6 @@
       "durationSeconds": 1019,
       "duration": "16:59",
       "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \n\nBy the end of this video you'll understand local AI better than 95% of the people using it every day. I cover what it actually is, the hardware that matters, the best models worth running right now, and three real-world setups from cheap to high-end — with actual token speeds for each one.\n\nAnd I'll be straight with you: for most people, cloud models still make more sense. I'll tell you exactly who should go local and who shouldn't.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nTry Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \nGet 10% off with code TECHWITHTIM\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:32 | What Local Means\n03:16 | Granola AI Notepad\n04:20 | What Models to Use\n08:18 | Hardware Specs\n10:40 | Three Setup Options\n15:28 | Local AI Tools\n\nHashtags\n#LocalAI #RunAILocally #LocalLLM\n\nUAE Media License Number: 3635141"
-    },
-    {
-      "channel": "The Diary Of A CEO",
-      "priority": "medium",
-      "videoId": "a_GiFiHXJ6g",
-      "publishedAt": "2026-09-21T05:00:16Z",
-      "title": "Rick Rubin: The Only Skill That Matters Now Is The One Thing AI Can Never Steal!",
-      "url": "https://www.youtube.com/watch?v=a_GiFiHXJ6g",
-      "durationSeconds": 9990,
-      "duration": "2:46:30",
-      "description": "Discover the spiritual and psychological creative process that legendary producer Rick Rubin uses to help the world's biggest artists transcend and achieve greatness.\n\nRick Rubin is the co-founder of Def Jam Recordings, the author of the philosophical bestseller The Creative Act: A Way of Being, and has a new documentary called JAY-Z in 8 available on HBO Max and Mubi. Having collaborated with icons like Jay-Z, Johnny Cash, Adele, Tom Petty, and Kanye West, Rubin does not rely on commercial metrics or audience testing to guide his workflow. He shares practical strategies for dismantling the prisons of identity, harnessing the power of \"indefensible\" ideas, and cultivating a state of pure creative freedom.\n\n*In this episode, he explains:*\n■ *The \"Indefensible\" Act:* Why the greatest artistic breakthroughs defy logic and market research.\n■ *The Vacuum Strategy:* How walking away from obligations that no longer serve you creates an energetic void, allowing the universe to present massive unexpected opportunities.\n■ *The Audience Trap:* Why focusing on commercial incentives and audience expectations completely undermines the creative process.\n■ *Deconstructing the Greats:* The psychological traits that separate good musicians from generational icons.\n■ *The Trauma of Success:* Rubin opens up about his crippling depressive episode at age 33 after a corporate restructuring at Def Jam.\n\n00:00 Intro\n02:33 Rick Rubin’s \"Indefensible\" Rule\n05:19 How a Meme Became Rick Rubin's \"The Way of Code\"\n10:29 Why Risk Beats \"More of the Same\"\n16:38 How Jay-Z's 99 Problems Was Made \n20:42 Transcendental Meditation & Finding What You Love\n28:55 Is Creativity Innate? \n33:46 Stop Comparing Yourself\n35:42 The \"Lazy Workaholic\" & Avoiding Deadlines\n38:18 The 4 Phases of Creativity\n40:59 Should You Quit Your Job to Chase Your Dream? \n48:10 How Rick Rubin Knows an Artist Will Be Great \n54:10 Feeling Boxed In? The “Reset Button\" for Your Life\n57:45 Ads\n59:42 Your Identity Is the Trap: How to Start Over\n1:07:34 My Depressive Episode at 33 and What It Taught Me\n1:17:06 How to Be More Original\n1:27:47 Is AI Dangerous? \n1:29:19 Can AI Be Creative? \n1:35:04 What Makes a Great Artist in the AI Era? \n1:40:22 Studio Miracles\n1:46:40 When the World Rejects Your Work\n1:54:19 The Ace of Spades Story: Why Jay-Z Walked Away From Cristal\n2:00:55 Ads\n2:02:19 What If Your Art Isn't Good? \n2:06:58 What Made Jay-Z Different: Inside His Writing Process\n2:17:30 What Makes Kanye Brilliant + Were Great Artists Born Great?\n2:22:46 The Artists Who Changed Rick Rubin\n2:31:45 Why Rick Rubin Made the Jay-Z Documentary\n2:42:13 Who Would You Thank?\n\n*Follow Rick Rubin:*\n*Instagram -* https://link.thediaryofaceo.com/2PaPSZI\n*X -* https://link.thediaryofaceo.com/88EVXdF\n*YouTube -* https://link.thediaryofaceo.com/HGY2CrI\n*The Way of Code -* https://link.thediaryofaceo.com/CTcdN7D\n*Tetragrammaton -* https://link.thediaryofaceo.com/vdp2of\n\n*The Diary Of A CEO:*\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4\n\n*Sponsors:*\nKetone - https://ketone.com/STEVEN for 30% off your subscription order\nFiverr - https://fiverr.com/diary and get 10% off your first order when you use code DIARY"
     },
     {
       "channel": "Ali Abdaal",
