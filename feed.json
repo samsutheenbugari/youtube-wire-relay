@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-22T17:36:56.522332Z",
+  "collectedAt": "2026-09-23T05:53:38.332258Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-21T15:36:56.522332Z",
+  "windowStart": "2026-09-22T03:53:38.332258Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 4,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "oZ-w0kOpylw",
-      "publishedAt": "2026-09-21T17:42:37Z",
-      "title": "Understand Local AI in 15 Minutes",
-      "url": "https://www.youtube.com/watch?v=oZ-w0kOpylw",
-      "durationSeconds": 1019,
-      "duration": "16:59",
-      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \n\nBy the end of this video you'll understand local AI better than 95% of the people using it every day. I cover what it actually is, the hardware that matters, the best models worth running right now, and three real-world setups from cheap to high-end — with actual token speeds for each one.\n\nAnd I'll be straight with you: for most people, cloud models still make more sense. I'll tell you exactly who should go local and who shouldn't.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nTry Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \nGet 10% off with code TECHWITHTIM\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:32 | What Local Means\n03:16 | Granola AI Notepad\n04:20 | What Models to Use\n08:18 | Hardware Specs\n10:40 | Three Setup Options\n15:28 | Local AI Tools\n\nHashtags\n#LocalAI #RunAILocally #LocalLLM\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "AI with Thiru",
       "priority": "high",
@@ -38,17 +27,6 @@
       "durationSeconds": 850,
       "duration": "14:10",
       "description": "Hostinger : https://www.hostg.xyz/SHK3t\nAIDUDE - 10% - 12MONTHS\nAIDUDE15 - 15% - 24MONTHS\n\nForm Link : https://business.aidudetamil.com/\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nHow to Make Freelancing Projects & Earn Money Using AI \n\nWant to start freelancing and make money using AI? In this video, I’ll explain a practical approach to finding real-world problems, converting them into freelancing projects, and using AI tools to build solutions faster. Instead of simply learning AI tools, the goal is to turn your skills into something businesses and clients are willing to pay for.\n\nFind Freelancing Projects Using AI\n\nFinding the right project is one of the biggest challenges when starting freelancing. I’ll show you how to identify business problems, research potential opportunities, generate project ideas using AI, and understand what kind of AI solutions you can offer to clients.\n\nBuild Projects Faster with AI \n\nAI can help you speed up research, coding, content creation, automation, debugging, documentation, and many other parts of a freelance project. You can use AI as your assistant to reduce repetitive work and focus more on solving the actual client problem.\n\nTurn Your AI Skills Into Income\n\nKnowing AI tools alone is not enough. You need to package your skills into a service that solves a specific problem. Start with a simple service, create a few demo projects, build your portfolio, approach potential clients, and show them exactly how your solution can save time, reduce costs, or improve their business.\n\nHow to Get Your First Freelancing Client\n\nYou don’t need to wait until you become an AI expert. Choose one problem you can solve, build a working demo, identify businesses that may need it, and reach out with a clear solution. Your portfolio and working projects can become your strongest proof when approaching your first client.\n\nAI Freelancing for Beginners in 2026 \n\nWhether you’re a student, developer, working professional, or complete beginner, AI is creating new opportunities in freelancing. AI automation, AI agents, chatbots, content workflows, websites, data analysis, and business automation are some areas you can explore and turn into freelance services.\n\nStart Your AI Freelancing Journey Today\n\nDon’t just watch AI tutorials and collect tools. Pick one skill, build one useful project, solve one real problem, and start showing your work to potential clients. Your first freelancing project could be the beginning of a much bigger AI journey.\n\n#aifreelancing  #freelancing  #makemoneywithai  #aitools  #freelancingtutorial  #aitamil  #earnmoneyonline  #aiautomation  #freelancer  #ai2026 #freelancingguide #freelancingjobs #freelancerlife"
-    },
-    {
-      "channel": "Ali Abdaal",
-      "priority": "medium",
-      "videoId": "J5U3t6-zVz0",
-      "publishedAt": "2026-09-21T17:11:25Z",
-      "title": "What I Actually Do When I’m Not Making YouTube Videos",
-      "url": "https://www.youtube.com/watch?v=J5U3t6-zVz0",
-      "durationSeconds": 1091,
-      "duration": "18:11",
-      "description": "Book a tour at WeWork. Use 10ALIWORKS for 10% off a monthly membership, or \nuse ALIWORKS25 for 25% off pay-as-you-go bookings 👉 https://we.co/aliabdaal\n\n🍂 Join my free Autumn Reset workshop, Saturday 26 September: we reflect on how 2026 has gone and set goals for the final 90 days →  https://go.aliabdaal.com/autumnreset_desc_officevlog\n\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business → https://lifestylebusiness.com/academy?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=J5U3t6-zVz0\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time → https://superfocus.me/?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=J5U3t6-zVz0\n\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS → https://go.aliabdaal.com/lifeos/ytd\n🤑 Grow / Monetise your YouTube Channel → https://go.aliabdaal.com/PTYA/yt\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free → https://go.aliabdaal.com/voicepal/ytd\n\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) → https://go.feelgoodproductivity.com/amazon/yt\n\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading & learning: https://go.aliabdaal.com/lifenotes/yt\n📸  Instagram: https://instagram.com/aliabdaal\n📱 TikTok: https://www.tiktok.com/@aliabdaal\n👨‍💻 Linkedin: https://www.linkedin.com/in/ali-abdaal/\n🐥 X/Twitter: https://x.com/aliabdaal\n🌍  My website / blog: https://www.aliabdaal.com/\n\n---\n\nHey friends, this is a day in the life of actually running the business, filmed on a Friday at our office in Hong Kong. You'll see the two Friday firesides I run for our Lifestyle Business Academy students, a coaching call with Nathan that accidentally turned into new curriculum, me writing this week's LifeNotes using a technique called the splurge, and a slightly unplanned trip to the DJI store. It ends with a pretty honest chat with the team about what it's felt like carrying a business for the last 14 years, which is not something I usually talk about on camera. Hope you enjoy xx\n\n\n⌚️ TIMESTAMPS \n0:00 Intro\n0:25 Friday fireside with LBA students\n1:12 Bringing back the old vlog format\n2:29 Mapping the student roadmap\n3:37 LifeNotes and the splurge method\n4:52 Coaching call with Nathan\n8:35 Why I stopped using AI to write\n10:24 Marketing Superfocus\n12:16 One-on-one with Angus\n13:42 The weight of running a business\n\nPS: I donate 10% of my income to charity every year. Would you like to join me? Learn more about the 10% Pledge: https://aliabdaal.com/giving-what-we-can/"
     },
     {
       "channel": "Raj Shamani",
