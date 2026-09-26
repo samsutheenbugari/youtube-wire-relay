@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-26T06:06:16.544447Z",
+  "collectedAt": "2026-09-26T12:11:28.739187Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-25T04:06:16.544447Z",
+  "windowStart": "2026-09-25T10:11:28.739187Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 4,
+  "videoCount": 5,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -27,6 +27,17 @@
       "durationSeconds": 483,
       "duration": "8:03",
       "description": "Check out Muse, your personal AI agent. Redeem my code in Settings within 48 hours of joining and we'll both get 1 billion Muse tokens.\n\nCode: JTMR3H\nCode: FLIOMK\nhttps://muse.ai/join\n\nUse cases of muse ai - http://muse.ai/s/muse-use-cases-xuxf6fkdeq4oxw\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nMuse AI is a new personal AI agent designed to go beyond simply answering questions. Instead of just generating text, AI agents like Muse focus on understanding a task, taking actions, and helping users complete real-world workflows.\n\nIn this video, we explore what Muse AI is, how it works, and why personal AI agents are becoming important. We’ll look at how agent-based systems can interact with apps and websites, execute multi-step tasks, and reduce the amount of manual work users have to do.\n\nOne of the biggest changes happening in AI is the transition from AI Chatbots → AI Assistants → AI Agents. Rather than asking an AI for instructions and then doing everything yourself, agentic systems are being designed to actually perform parts of the workflow for you.\n\nWe’ll also discuss the idea behind an AI app ecosystem, where different tools, integrations, and services can work together through an intelligent agent. This could change how we use AI for productivity, research, scheduling, browsing, automation, and everyday digital tasks.\n\nMost importantly, this video explains Muse AI in simple Tamil, including where this technology fits in the current AI-agent ecosystem, what makes it different from a normal chatbot, and what you should understand before using autonomous AI systems.\n\nIf you’re interested in AI Agents, Agentic AI, AI Automation, Personal AI Assistants, and the future of AI, this video will give you a simple breakdown of what’s happening and why it matters.\n\n#museai  #aiagents  #agenticai  #aitamil  #aiautomation  #artificialintelligence  #generativeai  #ai2026"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "XpPtfB2pdio",
+      "publishedAt": "2026-09-26T11:50:21Z",
+      "title": "LM Studio Full Tutorial - The BEST Way to Run Local Models",
+      "url": "https://www.youtube.com/watch?v=XpPtfB2pdio",
+      "durationSeconds": 1108,
+      "duration": "18:28",
+      "description": "Learn how to build useful AI agents that actually get things done. Go here and join my free Skool: https://aiagentbuilders.co/yt\n\nLM Studio is one of the easiest ways to download and run AI models completely for free, right on your own computer — no cloud, no subscription, no API costs. In this video I walk through the entire thing from scratch.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | LM Studio\n00:23 | What is LM Studio?\n00:44 | LM Studio Download\n01:16 | Downloading a Model\n05:11 | Live Masterclass\n06:09 | Loading Models\n08:04 | Loading Multiple Models\n09:00 | Using Models in LM Studio\n11:24 | Loading Large Models\n13:50 | Using Models from VSCode\n16:32 | Calling the API from Code\n\nHashtags\n#LMStudio #LocalAI #LocalLLM\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "Dr David Jockers",
