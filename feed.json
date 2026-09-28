@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-27T17:41:50.215348Z",
+  "collectedAt": "2026-09-28T06:44:46.601328Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-26T15:41:50.215348Z",
+  "windowStart": "2026-09-27T04:44:46.601328Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 2,
+  "videoCount": 3,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -27,6 +27,17 @@
       "durationSeconds": 429,
       "duration": "7:09",
       "description": "zoholics link - https://www.youtube.com/live/s20WSSXNCrs?si=qv003AxW-amVtlwN\n\nai agents, zia chat, subscription and new updates"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "3B0sGESJtH0",
+      "publishedAt": "2026-09-28T06:09:21Z",
+      "title": "Final Call-AI Forward Deployed Engineer(FDE) Bootcamp",
+      "url": "https://www.youtube.com/watch?v=3B0sGESJtH0",
+      "durationSeconds": 1034,
+      "duration": "17:14",
+      "description": "Last 6 days to Join our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
     }
   ]
 }
