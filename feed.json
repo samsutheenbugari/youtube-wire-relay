@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-05T15:55:34.646899Z",
+  "collectedAt": "2026-10-05T23:07:52.880831Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-04T13:55:34.646899Z",
+  "windowStart": "2026-10-04T21:07:52.880831Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 6,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "H5o1P8RMiMw",
-      "publishedAt": "2026-10-04T14:11:56Z",
-      "title": "Build Your Own Agentic Harness in Python - Full Tutorial",
-      "url": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
-      "durationSeconds": 2263,
-      "duration": "37:43",
-      "description": "Check out the AI stack I use for my own business (in partnership with HubSpot): https://clickhubspot.com/5dedde\n\nIn this video, I build a full AI agent harness in Python completely from scratch — no LangChain, no CrewAI, no framework of any kind — just Python, an LLM, and the actual mechanics that make an agent an agent.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nDownload the code in this video: https://www.aiagentbuilders.co/yt-resources/python-agent-harness\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:45 | Environment/Project Setup\n03:38 | What is an LLM & How it Works\n05:50 | V0: Calling LLMs\n09:25 | Model Selection & Local Models\n13:47 | HubSpot Free Resource\n14:44 | V1: Tool Calling\n22:56 | V2: Agentic Loop\n25:36 | V3: MCP Servers\n 30:53 | V4: Saving Memory\n33:55 | Full Harness Build\n\nHashtags\n#PythonAI #AIAgents #MCP\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "Krish Naik",
       "priority": "high",
@@ -77,7 +66,7 @@
       "priority": "low",
       "videoId": "xO4wEerAuZY",
       "publishedAt": "2026-10-05T15:30:27Z",
-      "title": "KIM KARDASHIAN: You're Not Selfish, You're Just Finally Choosing Yourself",
+      "title": "Kim Kardashian's Life Fell Apart Before It Opened Up",
       "url": "https://www.youtube.com/watch?v=xO4wEerAuZY",
       "durationSeconds": 2873,
       "duration": "47:53",
