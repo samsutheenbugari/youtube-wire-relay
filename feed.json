@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-10T19:14:51.398473Z",
+  "collectedAt": "2026-10-11T07:05:23.676976Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-09T17:14:51.398473Z",
+  "windowStart": "2026-10-10T05:05:23.676976Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 5,
@@ -55,7 +55,7 @@
       "priority": "low",
       "videoId": "j1pKDa1sHqI",
       "publishedAt": "2026-10-10T15:30:04Z",
-      "title": "Mel Robbins:  Do This Instead & They Will Want to Change on Their Own",
+      "title": "Mel Robbins: 3 Steps That Make Someone You Love Want to Change",
       "url": "https://www.youtube.com/watch?v=j1pKDa1sHqI",
       "durationSeconds": 2463,
       "duration": "41:03",
