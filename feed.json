@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-11T07:05:23.676976Z",
+  "collectedAt": "2026-10-11T13:57:41.961587Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-10T05:05:23.676976Z",
+  "windowStart": "2026-10-10T11:57:41.961587Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 5,
@@ -55,7 +55,7 @@
       "priority": "low",
       "videoId": "j1pKDa1sHqI",
       "publishedAt": "2026-10-10T15:30:04Z",
-      "title": "Mel Robbins: 3 Steps That Make Someone You Love Want to Change",
+      "title": "And You'll Never Let Anyone Stress You Out Again | Mel Robbins",
       "url": "https://www.youtube.com/watch?v=j1pKDa1sHqI",
       "durationSeconds": 2463,
       "duration": "41:03",
