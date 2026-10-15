@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-14T17:57:49.404666Z",
+  "collectedAt": "2026-10-15T05:50:35.748574Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-13T15:57:49.404666Z",
+  "windowStart": "2026-10-14T03:50:35.748574Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 5,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "N2FhJhJ5dNY",
-      "publishedAt": "2026-10-13T18:08:31Z",
-      "title": "I Tried Gemini 4 Argon And Its Just Amazing",
-      "url": "https://www.youtube.com/watch?v=N2FhJhJ5dNY",
-      "durationSeconds": 559,
-      "duration": "9:19",
-      "description": "Check out Gemini 4 Argon \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ \n\nGemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.\n\nArgon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. Its depth and precision across multi-step tasks leads Argon to outperform other frontier models on benchmarks across domains, ranking #1 on the Vals Index, which measures model performance across critical economic sectors like finance, coding, legal, and tax work.\n\nThe model launches today at an introductory price \n1\n of $2 per million input tokens and $10 per million output tokens (with cached input tokens at 95% off)."
-    },
     {
       "channel": "AI with Thiru",
       "priority": "high",
