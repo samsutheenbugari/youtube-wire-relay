@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-17T16:19:59.555214Z",
+  "collectedAt": "2026-10-17T19:17:36.758331Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-16T14:19:59.555214Z",
+  "windowStart": "2026-10-16T17:17:36.758331Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 4,
   "videos": [
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "MXNJu0_PlJU",
-      "publishedAt": "2026-10-16T15:29:07Z",
-      "title": "RAGAS கத்துக்கலாம்! 🤯| RAG Evaluation Complete Tutorial",
-      "url": "https://www.youtube.com/watch?v=MXNJu0_PlJU",
-      "durationSeconds": 2763,
-      "duration": "46:03",
-      "description": "Building RAG applications is not enough — you need to evaluate how well they actually perform!\n\nIn this video, learn about RAGAS (RAG Assessment) and how it helps evaluate Retrieval-Augmented Generation (RAG) applications. Discover how to assess your RAG pipeline and understand whether your AI system retrieves relevant information and generates accurate, reliable answers.\n\nWhat you'll learn:\n\nWhat is RAGAS?\n\nWhy RAG evaluation matters\n\nHow to evaluate RAG applications\n\nKey evaluation metrics, including Faithfulness, Answer Relevancy, Context Precision, and Context Recall\n\nHow RAGAS helps identify weaknesses in your RAG pipeline\n\nWhether you're an AI engineer, ML developer, student, or GenAI enthusiast, this tutorial will help you take your RAG development skills to the next level.\n \nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/AI-Security-Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nRAGAS tutorial, RAGAS explained, RAGAS tutorial Tamil, RAG evaluation, RAGAS evaluation metrics, Retrieval Augmented Generation, RAG pipeline evaluation, LLM evaluation, Faithfulness metric, Answer Relevancy, Context Precision, Context Recall, Generative AI tutorial, RAG development, AI engineering, GenAI Tamil, AI with Thiru\n\n#RAGAS #RAG #RAGEvaluation #GenerativeAI #LLM #GenAI #AIEngineering #AITutorial #TamilTech #AIwithThiru"
-    },
     {
       "channel": "Y Combinator",
       "priority": "high",
