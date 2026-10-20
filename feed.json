@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-19T20:32:55.130940Z",
+  "collectedAt": "2026-10-20T05:57:07.187008Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-18T18:32:55.130940Z",
+  "windowStart": "2026-10-19T03:57:07.187008Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 5,
@@ -55,7 +55,7 @@
       "priority": "low",
       "videoId": "DtvvSCBjTuE",
       "publishedAt": "2026-10-19T15:30:27Z",
-      "title": "Do This 1 Thing Every Day for 14 Days (Better Than 10 Years of Therapy) | Tim Ferriss",
+      "title": "If You Struggle with Anxiety, Please Watch This | Tim Ferriss",
       "url": "https://www.youtube.com/watch?v=DtvvSCBjTuE",
       "durationSeconds": 4908,
       "duration": "1:21:48",
