@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-20T17:56:23.348883Z",
+  "collectedAt": "2026-10-21T05:57:50.507444Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-19T15:56:23.348883Z",
+  "windowStart": "2026-10-20T03:57:50.507444Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 3,
@@ -22,7 +22,7 @@
       "priority": "medium",
       "videoId": "ABoy_36zNUM",
       "publishedAt": "2026-10-20T15:39:34Z",
-      "title": "Social Scientist: Why Everyone Wants To Look Rich & Successful | Rob Henderson | FO577 Raj Shamani",
+      "title": "5 Things That Determine Your Social Status & Success | Rob Henderson | FO577 Raj Shamani",
       "url": "https://www.youtube.com/watch?v=ABoy_36zNUM",
       "durationSeconds": 8509,
       "duration": "2:21:49",
