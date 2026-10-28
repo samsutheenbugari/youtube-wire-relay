@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-28T06:48:39.527201Z",
+  "collectedAt": "2026-10-28T13:57:38.969198Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-27T04:48:39.527201Z",
+  "windowStart": "2026-10-27T11:57:38.969198Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Krish Naik",
@@ -49,6 +49,17 @@
       "durationSeconds": 2530,
       "duration": "42:10",
       "description": "Deploy Hermes agent with Hostinger and use code 'techwithtim' for 10% off: https://www.hostg.xyz/SHKIW\n\nThis video will teach you 90% of Hermes Agent and everything you need to know. A lot has changed since my last videos, and Hermes has become even more powerful, so in about 42 minutes I set it up completely from scratch and go through every important new feature.\n\nBy the end you’ll have Hermes running 24/7 on a server, the new desktop app connected to it, scheduled jobs running automatically, and multiple agents working together in the new bot mode.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-oct26\n\n🎞 Video Resources 🎞\nInstall Hermes from Scratch: https://hermes-agent.nousresearch.com/docs/getting-started/installation\nHermes Desktop App: https://hermes-agent.nousresearch.com/desktop\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:16 | What is Hermes\n02:20 | Hermes vs Claude and ChatGPT\n03:11 | 6 Parts of Hermes Agent\n05:35 | Skill Curator\n06:22 | Where to Run Hermes\n08:05 | Deploying Hermes\n09:55 | Accessing Hermes Dashboard\n11:00 | 3 Ways Access Hermes\n13:19 | Accessing Hermes CLI (Terminal)\n15:05 | Adding Claude Code on VPS\n16:31 | Setting Your Model\n19:04 | Desktop App\n22:43 | Memory\n25:41 | Personality & SOUL.md\n28:37 | Skills & Tasks\n31:39 | Commands\n33:18 | Tools & Connectors\n35:02 | Messaging Channels\n35:56 | Bot Mode\n39:38 | File Tree View\n40:18 | Crons & Scheduled Jobs\n\nHashtags\n#HermesAgent #AIAgents #OpenSourceAI\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "r3EvmbmOuGc",
+      "publishedAt": "2026-10-28T07:50:21Z",
+      "title": "Anthropic IPO Reveals 7 Shocking AI Risks|Is AI Getting Out of Control",
+      "url": "https://www.youtube.com/watch?v=r3EvmbmOuGc",
+      "durationSeconds": 473,
+      "duration": "7:53",
+      "description": "🚨 **Anthropic's IPO Reveals 7 Shocking AI Risks! Is AI Getting Out of Control?**\n\nAnthropic, the company behind Claude AI, is preparing for its IPO. But ahead of going public, the company has disclosed some serious risks associated with advanced artificial intelligence.\n\nFrom AI models potentially resisting shutdown and demonstrating manipulative behavior to unauthorized system access, AI-powered cyberattacks and even catastrophic risks to humanity, these warnings raise important questions about the future of AI.\n\nIn this video, we discuss **7 major AI risks highlighted by Anthropic** and why the company is disclosing them to investors.\n\n🔥 **Topics Covered:**\n\n1. Anthropic's IPO announcement and AI safety disclosures\n2. AI models potentially resisting shutdown\n3. AI manipulation, deception and blackmail-like behavior\n4. AI accessing unauthorized computer systems during testing\n5. AI-powered cyberattacks and cybersecurity threats\n6. AI misuse in biological and chemical weapons development\n7. AI capabilities advancing faster than safety measures\n8. Catastrophic and existential risks from advanced AI\n9. Why Anthropic is disclosing these risks before its IPO\n\n⚠️ **Important:** Some risks discussed are hypothetical future scenarios, while others involve behaviors observed during controlled AI safety evaluations. These disclosures do not mean that today's AI systems have become uncontrollable.\n\nAs OpenAI, Google, Anthropic and other technology companies race to develop increasingly powerful AI systems, one"
     },
     {
       "channel": "Think School",
