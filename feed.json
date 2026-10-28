@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-27T18:40:15.738581Z",
+  "collectedAt": "2026-10-28T06:48:39.527201Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-26T16:40:15.738581Z",
+  "windowStart": "2026-10-27T04:48:39.527201Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 7,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "m2M1xdb6W38",
-      "publishedAt": "2026-10-26T18:30:11Z",
-      "title": "Which AI Role Should You Prepare For?",
-      "url": "https://www.youtube.com/watch?v=m2M1xdb6W38",
-      "durationSeconds": 547,
-      "duration": "9:07",
-      "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/year\n❤️ Existing students: up to ₹6,000 off, for as low as ₹15,000/year\n\n🔗 Enroll: https://www.krishnaik.in/ai-pro-subscription\n📞 Call or WhatsApp: +91 8484837781 | +91 9111533440\n(Mention whether you’re a new or existing student to claim your offer.)\n\n⏳ Limited-time festive offer. Don’t miss it!"
-    },
     {
       "channel": "Krish Naik",
       "priority": "high",
@@ -66,7 +55,7 @@
       "priority": "medium",
       "videoId": "wTsNjvuTi4U",
       "publishedAt": "2026-10-27T13:29:25Z",
-      "title": "The INSANE Rise of JPMorgan | How the 2008 Financial Crisis Created a Banking Giant?",
+      "title": "America's Biggest Banking Crisis | How One Man Turned Disaster Into a Billion-Dollar Opportunity?",
       "url": "https://www.youtube.com/watch?v=wTsNjvuTi4U",
       "durationSeconds": 1042,
       "duration": "17:22",
