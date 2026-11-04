@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-11-03T22:16:15.093254Z",
+  "collectedAt": "2026-11-04T07:27:07.195122Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-02T20:16:15.093254Z",
+  "windowStart": "2026-11-03T05:27:07.195122Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 6,
@@ -66,7 +66,7 @@
       "priority": "low",
       "videoId": "Mt3Cf2KT68M",
       "publishedAt": "2026-11-03T16:33:51Z",
-      "title": "You Are Not Burned Out Because You Work Too Much",
+      "title": "Nobody Cares About You (And That's the Best News You'll Hear Today)",
       "url": "https://www.youtube.com/watch?v=Mt3Cf2KT68M",
       "durationSeconds": 1042,
       "duration": "17:22",
