@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-11-04T22:35:41.656567Z",
+  "collectedAt": "2026-11-05T07:52:15.648950Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-03T20:35:41.656567Z",
+  "windowStart": "2026-11-04T05:52:15.648950Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 8,
@@ -77,7 +77,7 @@
       "priority": "low",
       "videoId": "pO2MP_HTjrM",
       "publishedAt": "2026-11-04T16:30:33Z",
-      "title": "Leila Hormozi: Discipline Isn't a Trait, It's a System You Build",
+      "title": "Leila Hormozi: You Have Been Set Up to Fail and Nobody Ever Told You",
       "url": "https://www.youtube.com/watch?v=pO2MP_HTjrM",
       "durationSeconds": 2789,
       "duration": "46:29",
