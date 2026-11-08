@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-11-08T15:55:12.634454Z",
+  "collectedAt": "2026-11-08T21:05:33.726270Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-07T13:55:12.634454Z",
+  "windowStart": "2026-11-07T19:05:33.726270Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 4,
+  "videoCount": 1,
   "videos": [
-    {
-      "channel": "Y Combinator",
-      "priority": "high",
-      "videoId": "Q78dJ0vkWe8",
-      "publishedAt": "2026-11-07T15:00:14Z",
-      "title": "How To Build The Future: Paul Graham & Amjad Masad",
-      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-      "durationSeconds": 2655,
-      "duration": "44:15",
-      "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked. The model companies even reached out to ask how Replit had pulled it off.\n\nCo-founder and CEO Amjad Masad had been thinking about making programming radically more accessible since 2008, and Replit’s original pitch deck predicted AI-generated code before the Transformer paper was published. Today, that same technology is moving into banks, manufacturers, and other large companies, where Amjad says teams are replacing software projects once scoped at $10 million with $250,000 of Replit.\n\nOn How to Build the Future, Paul Graham sits down with Amjad to talk about why Replit was so well positioned when coding agents arrived, what comes after vibe coding, and his bigger vision for the “self-driving company,” where AI agents increasingly build and operate the software a company needs.\n\nChapters:\n00:00 - \"You guys basically invented vibe coding\"\n02:43 - Watching users copy-paste from ChatGPT\n05:27 - The origins of Replit\n08:00 - People underestimate their ability to predict the future\n10:27 - Grieving the craft\n12:52 - A culture of obsessing over users\n15:13 - Why enterprises pick Replit\n17:28 - The agent was just another user\n20:17 - It barely worked, and users loved it\n23:13 - $10 million projects now for $250,000\n25:45 - Sandboxing for humans\n28:14 - \"The self-driving company\"\n30:34 - The way AI flows into companies\n33:28 - What Steve Jobs knew before the iPad\n35:59 - Killing the sacred cow\n38:25 - The rest of the world is two years behind\n41:15 - The compute brought on AI\n43:46 - The person who assumes dramatic change\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
-    },
     {
       "channel": "Y Combinator",
       "priority": "high",
@@ -27,28 +16,6 @@
       "durationSeconds": 4903,
       "duration": "1:21:43",
       "description": "This week’s Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates more data than anyone can mine, and the models are finally catching up. We cover how falling sequencing costs are turning cancer care into a per-patient data problem, what it takes to model a cell rather than a molecule, what a language model trained on DNA actually learns, and why in-context learning showed up in a genome model that nobody trained for it.\n\nChapters:\n00:00 - Is the Turing test solved? A live experiment\n03:22 - Why now is the best time for AI Bio\n08:26 - Alfredo Gonzalez: cancer as a data problem\n29:50 - Yusuf Roohani: virtual cells and autonomous research\n51:47 - Garyk Brixi: what a model learns from DNA\n1:09:57 - Divya Nori: few-shot prompting for biological design\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
-    },
-    {
-      "channel": "Raj Shamani",
-      "priority": "medium",
-      "videoId": "dNIef2fGLQY",
-      "publishedAt": "2026-11-07T15:39:37Z",
-      "title": "How Money Is Created: Central Banks, Money Printing & Inflation | Gita Gopinath | FO585 Raj Shamani",
-      "url": "https://www.youtube.com/watch?v=dNIef2fGLQY",
-      "durationSeconds": 6068,
-      "duration": "1:41:08",
-      "description": "Check out the ASUS Expertbook series: https://www.flipkart.com/bbd-eb-intrigue-at-store\n\n--------------\n\nGet your hand-picked playbook here: https://www.figuringout.co/pdf/fo-585\n\n--------------\n\nGuest Suggestion Form: https://forms.gle/bnaeY3FpoFU9ZjA47\n\n--------------\n\nDesign Your Own Podcast Episode: https://forms.gle/sx8iyUF9vnqhgvru7\n\n--------------\n\nDisclaimer: This video is intended solely for educational purposes and opinions shared by the guest are her personal views. We do not intent to defame or harm any person/ brand/ product/ country/ profession mentioned in the video. Our goal is to provide information to help audience make informed choices. The media used in this video are solely for informational purposes and belongs to their respective owners.\n\n--------------\n\nOrder 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nFollow Our WhatsApp Channel: https://www.whatsapp.com/channel/0029VaokF5x0bIdi3Qn9ef2J\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nTimestamps - \n\n00:00 — Intro\n03:51 — Where Does Money Come From & How Do Central Banks Control It?\n12:28 — Why Governments Borrow & Is America’s $38 Trillion Debt a Problem?\n18:09 — The Dollar’s Global Power, China’s Yuan & the Future of World Trade\n28:42 — The US Economy, a New World Order & India’s Biggest Opportunity\n37:25 — Why Corruption Is So Hard to Fix & What Countries Can Do About It\n41:22 — The Global Economy’s Great Gamble: AI Boom vs. Geopolitical Risk\n50:54 — Why Globalization Is Retreating & Are Tariffs Making It Worse?\n55:31 — Could Geopolitical Shocks & AI Trigger the Next Financial Crisis?\n1:03:41 — The IMF, Global Debt & the Risk of the Next Economic Crisis\n1:22:43 — Five-Year Predictions: AI, Geopolitics & the Future of the World\n1:32:34 — Human Connection & the Future of Global Trust\n1:36:33 — One Piece of Advice No One Should Follow\n1:37:24 — The Personal Cost of Becoming Gita Gopinath\n1:40:40 — Outro\n\n---------------\n\nIn today’s episode, we sit down with Gita Gopinath, Former IMF First Deputy Managing Director, Harvard Professor & Founding Director of the Global Economics Lab, who, free of the IMF’s diplomatic constraints, now says exactly what she thinks.\n\nWe discuss where the world’s money really comes from, why printing money is never free, why she believes AI valuations are headed for a correction, why the dollar will still rule in 20 years while a BRICS currency makes no sense, and how the IMF decides which countries get a lifeline.\n\nIt’s an unfiltered look at the gamble the whole world is taking right now, and what it means for your money and your career.\n\nSubscribe for more such conversations.\n\nFollow Gita Gopinath Here: \nInstagram: https://www.instagram.com/gita_gopinath/\nX: https://x.com/GitaGopinath\nLinkedIn: https://www.linkedin.com/in/gitagopinath/\n\n\n---------------\n\nAbout Raj Shamani\nRaj Shamani is an entrepreneur and the host of the Figuring Out Podcast. He sits down with experts, athletes, celebrities, billionaires, and world leaders to break down how they actually win: money, business, mindset, relationships, and life. He's also a bestselling author, speaker, and angel investor. His work sits at the intersection of business, psychology, and human behaviour.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani #ASUSExpertBook #global #economics #world #money #ai \n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
-    },
-    {
-      "channel": "Jay Shetty Podcast",
-      "priority": "low",
-      "videoId": "CiDW7nqYZGo",
-      "publishedAt": "2026-11-07T16:30:34Z",
-      "title": "Priyanka Chopra Jonas: I Ran So Fast for So Long. It Was All I Knew",
-      "url": "https://www.youtube.com/watch?v=CiDW7nqYZGo",
-      "durationSeconds": 2509,
-      "duration": "41:49",
-      "description": "Holding on tight to everything made Priyanka Chopra Jonas successful. It also wore her out.\n\nIn this episode, Priyanka Chopra Jonas and Jay Shetty talk about the day she stopped running. She moved fast for a really long time. She used to feel guilty for taking even one day off. Now she loves being the one who picks her daughter up from school.\n\nPriyanka shares the two questions she asks when her mind starts to spiral. She tells the story of the argument with Nick that changed how they talk. And she opens up about the 110 days after her daughter was born at 27 weeks.\n\nLearn why she says thoughts are not facts. And learn what her daughter told her doll that almost made her cancel a flight.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 She ran so fast it was all she knew\n1:27 The guilt of taking even one day off\n3:44 The first change she didn't feel pushed into\n5:04 The patience she never used to have\n5:20 Why holding on tight is exhausting\n7:34 Would she be this successful without it?\n8:29 What writing her memoir showed her\n10:22 The 2 questions she asks when her mind spirals\n12:44 The fight with Nick that changed how they talk\n14:45 Why mean comments still sting\n20:46 The call: Malti is coming at 27 weeks\n21:40 The first days in the NICU\n23:41 110 days of skin-to-skin and mantras\n27:28 The day Malti came home\n29:35 Making peace with her timeline\n32:34 Nick's letter she'd never read\n36:56 The invisible string\n39:22 Why seeing the good in people has a cost\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Priyanka Chopra Jonas:\nhttps://youtu.be/mW-GONPhKwQ\n\nEpisode Resources:\nYouTube | https://www.youtube.com/priyankachopra\nFacebook | https://www.facebook.com/priyankachopra/\nInstagram | https://www.instagram.com/priyankachopra"
     }
   ]
 }
