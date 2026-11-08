@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-11-07T19:22:41.662725Z",
+  "collectedAt": "2026-11-08T07:13:52.876735Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-06T17:22:41.662725Z",
+  "windowStart": "2026-11-07T05:13:52.876735Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 5,
@@ -55,7 +55,7 @@
       "priority": "low",
       "videoId": "CiDW7nqYZGo",
       "publishedAt": "2026-11-07T16:30:34Z",
-      "title": "Priyanka Chopra Jonas Opens Up About Her Daughter's Birth at 27 Weeks",
+      "title": "Priyanka Chopra Jonas: The 2 Questions I Ask When My Mind Spirals",
       "url": "https://www.youtube.com/watch?v=CiDW7nqYZGo",
       "durationSeconds": 2614,
       "duration": "43:34",
