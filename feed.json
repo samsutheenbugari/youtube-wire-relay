@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-11-10T16:59:00.515622Z",
+  "collectedAt": "2026-11-10T22:19:52.582924Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-09T14:59:00.515622Z",
+  "windowStart": "2026-11-09T20:19:52.582924Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 5,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "5z5aoqMURFM",
-      "publishedAt": "2026-11-09T15:11:46Z",
-      "title": "I Gave My AI Agent My IDE. Here's What Changed.",
-      "url": "https://www.youtube.com/watch?v=5z5aoqMURFM",
-      "durationSeconds": 1006,
-      "duration": "16:46",
-      "description": "Give your AI agent the same tools you use. Try JetBrains IDEs free 👉 https://jb.gg/IDEs-JetBrains\n📖 Why we still need an IDE (JetBrains blog): https://jb.gg/6d1jwb\n\nSome developers say AI killed the IDE. The agent writes the code and runs the tests, so why not just live in the terminal? On small projects that works fine. But in the terminal your agent is mostly coding blind: it searches through text and hopes it lands on the right thing. Your IDE actually understands the code. So I tested what happens when the agent gets the same tools you do, first on a small Python project and then on a real production codebase of about 220,000 lines.\n\n🧠 Want to LEARN how to build AI agents that actually get things done? Start here: https://aiagentbuilders.co/pro\n\n🎞 Video Resources 🎞\nJetBrains IDEs: https://jb.gg/IDEs-JetBrains\nBlog post – Why We Still Need an IDE: https://jb.gg/6d1jwb\n\n🚀 Tools I Use (10% off with code techwithtim)\nOpenClaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10\nWispr Flow (best AI dictation): https://ref.wisprflow.ai/TechWithTim-nov26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:29 | The Experiment\n01:14 | Arguments Against an IDE\n02:15 | What an IDE Knows\n04:43 | Giving your Agent an IDE\n07:47 | Why You Need an IDE\n09:49 | Production Demo\n14:21 | The Human Review Layer\n\nHashtags\n#JetBrains #PyCharm #ClaudeCode\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "AI with Thiru",
       "priority": "high",
@@ -53,24 +42,24 @@
     {
       "channel": "Jay Shetty Podcast",
       "priority": "low",
-      "videoId": "NfvC-5p53uU",
-      "publishedAt": "2026-11-09T16:30:00Z",
-      "title": "What to Do the Moment You Open Your Eyes",
-      "url": "https://www.youtube.com/watch?v=NfvC-5p53uU",
-      "durationSeconds": 1090,
-      "duration": "18:10",
-      "description": "The first hour after you wake up is when your brain is easiest to shape.\nMost of us give it away.\nWe grab our phone and start scrolling.\nThen we wonder why the day already feels hard.\n\nIn this clip, Jay Shetty shares the simple morning routine he tried himself. Every step is backed by research on how your brain works. And none of them take much time.\n\nJay explains why the snooze button might be the worst thing you do all morning. He shares a strange alarm trick that uses your own voice and he talks about how 10 minutes of sunlight can help you sleep better tonight.\n\nLearn why ending your shower with 90 seconds of cold water calms you down hours later. And learn the three questions Jay says to write by hand every morning.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 The most programmable window of your day\n1:41 Why the snooze button hurts your brain\n2:46 The “future you is calling” alarm\n4:21 Sunlight in your eyes, the free drug\n5:35 The morning cortisol spike that helps you\n6:12 How morning light sets up tonight’s sleep\n7:57 The 90-second cold shot\n9:33 Cold water on your face as a reset button\n10:40 Move for 7 minutes, not 60\n11:29 Four things movement does to your brain\n13:25 Why 7 minutes beats nothing at all\n13:52 The brain dump journal\n16:42 Three questions to write every morning\n17:35 Add one habit a week\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://jayshettypodcast.com/Netflix\nSpotify - https://jayshettypodcast.com/Spotify"
-    },
-    {
-      "channel": "Jay Shetty Podcast",
-      "priority": "low",
       "videoId": "cTHJddEcUAY",
       "publishedAt": "2026-11-10T16:30:10Z",
       "title": "Why Forgiving Toxic Family Can Set You Back | Dr. Ramani",
       "url": "https://www.youtube.com/watch?v=cTHJddEcUAY",
       "durationSeconds": 2313,
       "duration": "38:33",
-      "description": "People think you cut off family over one bad moment. It's never one moment. It's the last of 1,500 others.\n\nIn this clip, Dr. Ramani Durvasula and Jay Shetty talk about how you know it's time to cut off a toxic family member. Dr. Ramani explains the \"natural experiment.\" It can show you the truth about a relationship without you saying a word.\n\nShe opens up about her own no contact decision, one that took 40 years to make. She shares why the people who walk away are often the ones who tried hardest to fix things. And she explains what to say when the whole family starts pushing back.\n\nLearn the one sign that shows someone can really change. And learn why forgiveness isn't always the healthy choice.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 When it's time to cut off a family member\n0:50 The natural experiment that shows you the truth\n2:55 The closet rod and the last straw\n3:57 Why 27% of adults are cut off from family\n5:02 Safety vs. punishment: two kinds of no contact\n6:54 Dr. Ramani's own 40-year decision\n12:56 The most common reasons people walk away\n16:04 How to know if someone can really change\n18:30 What's really driving your decision\n18:59 The number one rule of no contact\n20:25 Why no contact doesn't have to be forever\n21:26 When they ask \"Why are you ignoring me?\"\n24:18 The smear campaign you should expect\n28:18 Will you regret it when they're dying?\n29:50 Is forgiveness always healthy?\n32:38 When the whole family pushes back\n34:31 When a toxic parent suddenly turns nice\n36:19 Weddings, new babies and who gets invited\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Dr. Ramani Durvasula:\nhttps://youtu.be/o4Uk5npKafM\n\nEpisode Resources:\nWebsite | https://doctor-ramani.com/ \nYouTube | https://www.youtube.com/@DoctorRamani \nFacebook | https://www.facebook.com/doctorramani \nInstagram | https://www.instagram.com/doctorramani/ \nLinkedIn | https://www.linkedin.com/in/ramani-durvasula-4132067 \nTikTok | https://www.tiktok.com/@doctorramani \nX | https://x.com/DoctorRamani"
+      "description": "People think you cut off family over one bad moment. It's never one moment. It's the last of 1,500 others.\n\nIn this clip, Dr. Ramani Durvasula and Jay Shetty talk about how you know it's time to cut off a toxic family member. Dr. Ramani explains the \"natural experiment.\" It can show you the truth about a relationship without you saying a word.\n\nShe opens up about her own no contact decision, one that took 40 years to make. She shares why the people who walk away are often the ones who tried hardest to fix things. And she explains what to say when the whole family starts pushing back.\n\nLearn the one sign that shows someone can really change. And learn why forgiveness isn't always the healthy choice.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 When it's time to cut off a family member\n0:50 The natural experiment that shows you the truth\n2:55 The closet rod and the last straw\n3:57 Why 27% of adults are cut off from family\n5:02 Safety vs. punishment: two kinds of no contact\n6:54 Dr. Ramani's own 40-year decision\n12:56 The most common reasons people walk away\n16:04 How to know if someone can really change\n18:30 What's really driving your decision\n18:59 The number one rule of no contact\n20:25 Why no contact doesn't have to be forever\n21:26 When they ask \"Why are you ignoring me?\"\n24:18 The smear campaign you should expect\n28:18 Will you regret it when they're dying?\n29:50 Is forgiveness always healthy?\n32:38 When the whole family pushes back\n34:31 When a toxic parent suddenly turns nice\n36:19 Weddings, new babies and who gets invited\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://jayshettypodcast.com/Netflix\nSpotify - https://jayshettypodcast.com/Spotify\n\nFull Episode With Dr. Ramani Durvasula:\nhttps://youtu.be/o4Uk5npKafM\n\nEpisode Resources:\nWebsite | https://doctor-ramani.com/ \nYouTube | https://www.youtube.com/@DoctorRamani \nFacebook | https://www.facebook.com/doctorramani \nInstagram | https://www.instagram.com/doctorramani/ \nLinkedIn | https://www.linkedin.com/in/ramani-durvasula-4132067 \nTikTok | https://www.tiktok.com/@doctorramani \nX | https://x.com/DoctorRamani"
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "DRbuZTIJzDU",
+      "publishedAt": "2026-11-10T17:25:57Z",
+      "title": "4 Exercises That Trigger GLP-1 Naturally (Like Ozempic)",
+      "url": "https://www.youtube.com/watch?v=DRbuZTIJzDU",
+      "durationSeconds": 987,
+      "duration": "16:27",
+      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Re-Lyte:  https://redmond.life/drjockers\nUse coupon code JOCKERS at checkout for 15% off your order\n\nYour biggest source of natural GLP-1 might not be your gut. It might be your legs. Every time your leg muscles work hard, they send out a signal called IL-6 that tells your gut to make more of the same hormone drugs like Ozempic copy. \n\nIn this video, Dr. David Jockers shows you the 4 leg exercises that send that signal, how to do all of them in about 10 minutes with no gym, and the 4-day weekly plan to help you feel full and keep blood sugar steady. \n\n00:00 💪 4 Leg Exercises That Boost GLP-1 Naturally\n00:52 💉 Why the Shot Costs You Muscle\n01:28 🧬 The IL-6 Muscle-to-Gut Signal\n03:14 🤸 Exercise 1: Rebounding\n05:09 🏋️ Exercise 2: Squats\n06:45 🚶 Exercise 3: Walking Lunges\n08:19 🪜 Exercise 4: Step-Ups\n10:02 🍽️ Why Train Fasted Before Eating\n12:14 🧂 Electrolytes & Cortisol Balance\n14:14 📅 The Exact Weekly Protocol\n15:11 🎯 Final Thoughts & Prayer\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
