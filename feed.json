@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-11-10T22:19:52.582924Z",
+  "collectedAt": "2026-11-11T07:42:15.524123Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-09T20:19:52.582924Z",
+  "windowStart": "2026-11-10T05:42:15.524123Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 6,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -29,6 +29,17 @@
       "description": "Claude Artifacts : https://claude.ai/artifact/VRRYbEnpmG397q5uAGPuU3\n\nSide Hustle Playbook - https://claude.ai/artifact/JdV5rnBUgkxHBmYPU2rzcU\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?fo...\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nAI is changing everything — jobs, careers, businesses, and the way we earn money. Are you ready for the next 18 months? 🤯\n\nIn this video, we discuss how to survive and thrive in the AI era, the future of jobs, Universal High Income (UHI), and why AI-powered side hustles could become essential.\n\n🔥 What You'll Learn:\n\n✅ How AI could impact jobs in 2027\n\n✅ Universal High Income (UHI) vs Universal Basic Income (UBI)\n\n✅ Why multiple income streams matter\n\n✅ Best AI skills to learn for the future\n\n✅ AI side hustles and freelancing opportunities\n\n✅ How to prepare for the next 18 months\n\n💡 The future is uncertain, but your preparation starts today.\n\nSubscribe to The AI Dude – Tamil for AI tutorials, automation, career growth, and AI business opportunities.\n\n#AI2027 #AISurvival #UniversalHighIncome #AISideHustles #FutureOfWork #MakeMoneyWithAI #AITamil #தமிழில்\n\n#aitamil #ai2026 #aisurvival"
     },
     {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "_iRUnZ_BFkA",
+      "publishedAt": "2026-11-11T07:12:22Z",
+      "title": "How to Debug & Manage UiPath Automations Using Coding Agents | UiPath Tutorial",
+      "url": "https://www.youtube.com/watch?v=_iRUnZ_BFkA",
+      "durationSeconds": 1770,
+      "duration": "29:30",
+      "description": "Learn how to troubleshoot, debug, and manage UiPath automations using *UiPath for Coding Agents* — all through natural-language commands!\n\nIn this hands-on tutorial, we'll explore how AI coding agents can help diagnose failed automation jobs, identify root causes, fix credential issues, and manage UiPath Orchestrator resources without manually navigating multiple interfaces.\n\nWe'll work with a real-world *CompanyResearchAgent*, built using LangGraph and Tavily Search, to demonstrate how to troubleshoot and operate AI-powered automations.\n\n🔥 *What You'll Learn:*\n\n✅ How to troubleshoot failed UiPath automation jobs using AI coding agents\n\n✅ How to investigate job execution errors and identify root causes\n\n✅ How to resolve Tavily API authentication errors (HTTP 401 Unauthorized)\n\n✅ How to securely manage API credentials using UiPath Orchestrator Assets\n\n✅ How to restart failed automation jobs and verify successful execution\n\n✅ How to manage UiPath Orchestrator folders, users, and permissions\n\n✅ How AI coding agents handle read operations and request confirmation before making changes\n\n✅ How UiPath LLM Gateway provides centralized LLM access and governance\n\n🚀 *Technologies Covered:*\n- UiPath for Coding Agents\n- UiPath Orchestrator\n- LangGraph\n- Tavily Search API\n- UiPath LLM Gateway\n- AI Agents and Automation\n\n🎯 *Who Should Watch?*\n\nThis tutorial is ideal for UiPath developers, RPA engineers, AI engineers, automation developers, and anyone interested in managing enterprise AI automations using coding agents.\n\n📌 *Previous Video:* Learn how to build AI-powered automations using UiPath for Coding Agents.\n\nIf you found this tutorial helpful, LIKE 👍, SHARE, and SUBSCRIBE 🔔 for more practical tutorials on Agentic AI, UiPath, AI Agents, and automation engineering.\n\n#UiPath #UiPathTutorial #CodingAgents #AgenticAI #AIAgents #UiPathOrchestrator #LangGraph #Automation #RPA #AIAutomation"
+    },
+    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "g9zGQdrAlMw",
@@ -44,7 +55,7 @@
       "priority": "low",
       "videoId": "cTHJddEcUAY",
       "publishedAt": "2026-11-10T16:30:10Z",
-      "title": "Why Forgiving Toxic Family Can Set You Back | Dr. Ramani",
+      "title": "If You Feel Guilty About Stepping Back From Family, Please Watch This | Dr. Ramani",
       "url": "https://www.youtube.com/watch?v=cTHJddEcUAY",
       "durationSeconds": 2313,
       "duration": "38:33",
