@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-11-13T22:34:15.414372Z",
+  "collectedAt": "2026-11-14T07:32:55.085247Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-12T20:34:15.414372Z",
+  "windowStart": "2026-11-13T05:32:55.085247Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 4,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "HCJvnek8zZM",
-      "publishedAt": "2026-11-13T04:55:46Z",
-      "title": "My ASUS AI Agent Computer: Local LLMs, Coding & Agent Demos",
-      "url": "https://www.youtube.com/watch?v=HCJvnek8zZM",
-      "durationSeconds": 1293,
-      "duration": "21:33",
-      "description": "https://www.asus.com/microsite/agent-computer/in/?utm_source=official-site&utm_medium=asus-hero-banner&utm_campaign=Powering-Every-AI-Choice\nCan you run LLMs, write code, and build AI agents on your own workstation? In this video, I walk you through my ASUS AI Agent Computer and demonstrate local AI workflows—from running models with Ollama to comparing a local research agent against a cloud-based model.\n\nWe explore GPU utilization, VRAM, response times, tool calls, and estimated API costs through practical examples. I also demonstrate ASUS Zenni Claw for everyday productivity, including an AI news digest and a slide-generation workflow.\n\nIf you’re learning Agentic AI, building AI applications, or exploring a workstation for local inference, this walkthrough connects the hardware with real development tasks.\n\n**⏱️ TIMESTAMPS & TOPICS**\n\n00:00 Introducing my AI workstation  \n00:22 Why run AI locally? Local, cloud, and hybrid approaches  \n01:57 ASUS workstation hardware tour  \n03:25 Ollama installation and local model setup  \n04:06 Running and chatting with Qwen 3.5 locally  \n06:31 Finding and running additional models with Ollama  \n07:09 Generating Python code for a Tetris game with Llama 3.2  \n07:34 Checking GPU utilization, VRAM, and NVIDIA-SMI  \n08:09 Research agent project walkthrough with Claude Code  \n09:26 Streamlit app setup and model selection  \n10:07 Local vs cloud agents: facts and calculation task  \n11:18 Comparing response times, tool calls, and estimated costs  \n12:11 Live AI news research: local vs cloud  \n13:17 Timeouts, execution limits, and cost observations  \n14:00 Compare-and-compute task and local model considerations  \n15:44 Introducing ASUS Zenni Claw  \n16:19 Local models, additional providers, and API configuration  \n16:46 Work Assistant demo: generating an AI news digest  \n18:28 Exploring productivity skills and workflows  \n18:51 Trying slide generation about Agentic AI systems  \n20:17 Key takeaways: AI agents and the infrastructure behind them  \n20:54 Choosing between local, cloud, and hybrid AI  \n21:07 Workstation resources and closing thoughts  \n21:20 Would you run your AI agents locally?\n\n**💡 WHAT YOU’LL LEARN**\n\n- How to get started with local LLMs using Ollama.\n- How GPU memory and model size affect local inference.\n- How to generate code using a locally running model.\n- How to monitor GPU utilization with Task Manager and NVIDIA-SMI.\n- How a Streamlit research agent compares local and cloud models.\n- How to inspect response time, tool usage, estimated API costs, and failures.\n- How ASUS Zenni Claw approaches everyday agentic workflows.\n- Where local, cloud, and hybrid AI can fit into your projects.\n\nThe comparisons shown are observations from these specific models, prompts, and settings. Local inference avoids per-token cloud inference charges for the locally executed work, while hardware, electricity, and connected services still have costs.\n\n**🖥️ HARDWARE FEATURED**\n\n- Motherboard: [ROG Maximus Z890 Hero](https://rog.asus.com/in/motherboards/rog-maximus/rog-maximus-z890-hero/)\n- GPU: [ROG Strix GeForce RTX 5070 Ti — 16GB GDDR7](https://rog.asus.com/in/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx5070ti-16g-gaming/)\n- Power supply: [ASUS TUF Gaming 1000P](https://www.asus.com/in/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000p/)\n- AIO cooler: [ROG Strix LC III 360 ARGB](https://rog.asus.com/in/cooling/cpu-liquid-coolers/rog-strix-lc/rog-strix-lc-iii-360-argb/)\n\n**🔗 USEFUL LINKS**\n\n- [ASUS Agent Computer](https://www.asus.com/microsite/agent-computer/in/)\n- [ASUS Agent Computer at EliteHubs](https://elitehubs.com/pages/asus-agent-computer)\n- [ASUS Zenni Claw — features, download, and device compatibility](https://www.asus.com/content/asus-zenni-claw/)\n- [Ollama](https://ollama.com/)\n\n**💬 JOIN THE DISCUSSION**\n\nWould you run your AI agents locally, use cloud APIs, or combine both? Share your preferred setup and the workflows you would build in the comments.\n\nLike the video and subscribe for more practical tutorials on Agentic AI, LLMs, and AI application development.\n\n#AgenticAI #LocalLLM #ASUS #Ollama #AIAgents"
-    },
     {
       "channel": "Tech With Tim",
       "priority": "high",
