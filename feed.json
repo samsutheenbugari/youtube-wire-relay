@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-11-14T21:23:57.751838Z",
+  "collectedAt": "2026-11-15T07:47:08.998633Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-13T19:23:57.751838Z",
+  "windowStart": "2026-11-14T05:47:08.998633Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 6,
   "videos": [
     {
       "channel": "Krish Naik",
@@ -27,6 +27,17 @@
       "durationSeconds": 1083,
       "duration": "18:03",
       "description": "Build the side hustle : https://sidehustle.aidudetamil.com/\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nWhy did I quit my high-paying IT job after 10 years to build my own startup?\n\nThis is one of the most personal videos I've shared on The AI Dude Tamil.\n\nAfter spending nearly a decade in the IT industry, I decided to leave my corporate career and start building something of my own.\n\nBut this video isn't about showing off my achievements. It's about sharing my real experiences, career mistakes, difficult decisions, and the lessons I wish I had learned earlier.\n\nIf you're working a 9 to 5 IT job, thinking about starting a business, or dreaming of financial freedom, this video is for you.\n\nWhat You'll Learn:\n\n•  My 10-year journey in the IT industry\n\n•  Why I decided to quit my high-paying IT job\n\n•  The biggest career mistakes I made\n\n•  Lessons I learned from working in IT\n\n•  How I transitioned from employee to startup founder\n\n•  The challenges of building my own business\n\n•  How I approach financial freedom and independence\n\n•  What I would do differently if I started again\n\n•  Practical advice for IT professionals and aspiring entrepreneurs\n\nFrom IT Employee to Entrepreneur\n\nLeaving a stable job is never an easy decision. Everyone has different responsibilities, financial situations, and career goals.\n\nIn this video, I'll share my personal journey, what worked for me, what didn't, and what you can learn from my experiences.\n\nI'm not suggesting that everyone should quit their job. My goal is to help you make better career decisions, avoid unnecessary mistakes, and build a future that aligns with your goals.\n\n**VIDEO CHAPTERS**\n\n00:00 – 01:11 | What You're About to Discover  \n01:11 – 02:29 | Who Am I? My Side Hustle Story  \n02:29 – 03:52 | Hustle #1: Where It All Began  \n03:52 – 05:15 | Hustle #2: What's Next?  \n05:15 – 05:56 | Hustle #3: Another Experiment  \n05:56 – 06:52 | Hustle #4: The Next Move  \n06:52 – 08:06 | Hustle #5: One More Attempt  \n08:06 – 09:02 | How Much Did I Actually Earn?  \n09:02 – 10:23 | The Truth About Side Hustles  \n10:23 – 15:57 | The Story Behind AI DUDE  \n15:57 – 18:01 | Your Turn: Start Your Side Hustle\n\nABOUT\nI'm Manoj, The AI Dude Tamil, co-founder of Social Eagle AI. I have trained 1,500+ professionals through Agentic AI bootcamps. Subscribe for practical AI tutorials in Tamil every day.\n\n#itcareer  #iquitmyjob  #startupjourney  #entrepreneurship  #financialfreedom  #CareerChange #9to5job  #tamilentrepreneur  #aitamil #theadude #sidehustle #startup #iquitmyjob #2026career"
+    },
+    {
+      "channel": "Y Combinator",
+      "priority": "high",
+      "videoId": "y1-9yeYLJUo",
+      "publishedAt": "2026-11-14T23:21:16Z",
+      "title": "The Rise Of AI Coworkers",
+      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+      "durationSeconds": 3606,
+      "duration": "1:00:06",
+      "description": "Lauren Tan and Roman Ugarte join this episode of the Lightcone to go in deep on how they built and deployed Grok Bot. They explain how automated tests and codebase guardrails help agents check their own work, why bots should earn broader access over time, and why faster and cheaper execution makes direction and clear goal setting even more important.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nTry Grok Bot here: https://bit.ly/4tj7bpv\n\nChapters:\n\n00:00 — Intro\n03:36 — Giving Bots Real Jobs\n06:49 — One Bot or a Team of Specialists\n10:39 — Sharing Bots Across the Company\n14:46 — Identity and Permissions for AI Coworkers\n18:37 — Bot-to-Bot Collaboration and Trust\n22:35 — The Workflow Behind 4,000 PRs a Month\n26:00 — Teaching Agents to Write Code You Trust\n29:01 — Building a Personal Software Factory\n33:44 — The Future of AI Coworkers\n36:47 — Rethinking the AI-Native Company\n40:13 — Teaching Agents to Check Their Own Work\n43:56 — How Much Code Review Is Enough?\n47:33 — Codebase Guardrails That Save Tokens\n52:20 — When Product Judgment Becomes the Bottleneck\n56:29 — From Finance to AI Engineering + Outro"
     },
     {
       "channel": "Raj Shamani",
