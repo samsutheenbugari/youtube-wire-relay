@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-11-15T21:42:27.513883Z",
+  "collectedAt": "2026-11-16T07:53:57.061588Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-14T19:42:27.513883Z",
+  "windowStart": "2026-11-15T05:53:57.061588Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 2,
+  "videoCount": 1,
   "videos": [
-    {
-      "channel": "Y Combinator",
-      "priority": "high",
-      "videoId": "y1-9yeYLJUo",
-      "publishedAt": "2026-11-14T23:21:16Z",
-      "title": "The Rise Of AI Coworkers",
-      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
-      "durationSeconds": 3606,
-      "duration": "1:00:06",
-      "description": "Lauren Tan and Roman Ugarte join this episode of the Lightcone to go in deep on how they built and deployed Grok Bot. They explain how automated tests and codebase guardrails help agents check their own work, why bots should earn broader access over time, and why faster and cheaper execution makes direction and clear goal setting even more important.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nTry Grok Bot here: https://bit.ly/4tj7bpv\n\nChapters:\n\n00:00 — Intro\n03:36 — Giving Bots Real Jobs\n06:49 — One Bot or a Team of Specialists\n10:39 — Sharing Bots Across the Company\n14:46 — Identity and Permissions for AI Coworkers\n18:37 — Bot-to-Bot Collaboration and Trust\n22:35 — The Workflow Behind 4,000 PRs a Month\n26:00 — Teaching Agents to Write Code You Trust\n29:01 — Building a Personal Software Factory\n33:44 — The Future of AI Coworkers\n36:47 — Rethinking the AI-Native Company\n40:13 — Teaching Agents to Check Their Own Work\n43:56 — How Much Code Review Is Enough?\n47:33 — Codebase Guardrails That Save Tokens\n52:20 — When Product Judgment Becomes the Bottleneck\n56:29 — From Finance to AI Engineering + Outro"
-    },
     {
       "channel": "Think School",
       "priority": "medium",
