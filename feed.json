@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-11-19T18:11:43.295442Z",
+  "collectedAt": "2026-11-20T08:26:46.778522Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-18T16:11:43.295442Z",
+  "windowStart": "2026-11-19T06:26:46.778522Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 8,
@@ -44,11 +44,22 @@
       "priority": "high",
       "videoId": "lwfewYL7X0o",
       "publishedAt": "2026-11-19T15:00:34Z",
-      "title": "YC Debates: Should We Slow Down AI?",
+      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "durationSeconds": 3933,
       "duration": "1:05:33",
       "description": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher, faces off against Robin Hanson, an economist at GMU, about AI takeoff and what government regulation should (or shouldn’t) do about it.\n\nChapters:\n00:00 - YC Debate Topic: Should We Slow Down AI?\n02:42 - Jacob's case: Superintelligence by 2028\n07:02 - Models already behaving in ways we don't understand\n09:18 - Robin's case: the danger of abstraction\n11:22 - Why new technologies take decades to diffuse\n13:12 - Liability instead of regulation\n14:50 - Why regulating AI is different from regulating drugs\n16:00 - Jacob's rebuttal: general intelligence is one number\n17:36 - Why normal liability won't cover extinction risk\n19:52 - Robin's rebuttal: regulating this means regulating all compute\n21:44 - AI as our descendants\n23:38 - Diminishing returns\n24:40 - Direct exchange: is it just the rate of change?\n26:48 - How long until most cognitive work is automated?\n29:21 - The jobs we have no data for\n32:45 - How do you align the regulators?\n35:03 - Reward hacking, and what Hugging Face actually showed\n36:11 - Why not an equilibrium of AIs watching AIs\n39:50 - Q&A: what regulation would you actually want?\n41:36 - Q&A: what about China?\n42:58 - Q&A: an FAA for AI labs?\n43:45 - Q&A: the military is already deploying this\n47:46 - Q&A: does regulation just move the reward hacking up a layer?\n51:27 - Q&A: what unemployment rate can an economy withstand?\n56:25 - Q&A: what's the downside of a pause?\n58:09 - Q&A: what would change your mind?\n1:02:01 - Closing statements\n1:04:24 - The final audience vote\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "CRSj9JQJktc",
+      "publishedAt": "2026-11-19T21:59:24Z",
+      "title": "How AI App Builders Actually Work - Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=CRSj9JQJktc",
+      "durationSeconds": 1367,
+      "duration": "22:47",
+      "description": "Get started with Base44 for free: https://base44.pxf.io/QYrkgP\n\nYou type “add a dark mode toggle” into an AI app builder, and a few seconds later there’s a working toggle inside your app. Almost nobody explains what happens in between those two moments. In this video I show you exactly how these tools work under the hood: what the AI actually reads, how it edits your code, and how it catches and fixes its own mistakes.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/pro\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-nov26\n\n🎞 Video Resources 🎞\nBase44 Guide: https://www.youtube.com/watch?v=5h4qzPxXIqc\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:45 | What's Inside an AI App Builder\n02:35 | The Pipeline\n04:17 | Detailed LLM Breakdown\n06:54 | Context Breakdown\n09:29 | Tool Use\n11:19 | Live Preview\n12:15 | Working on an Existing Codebase\n13:50 | Connecting a Repo With Base44\n16:45 | Building a New Feature\n19:45 | Deploying It\n22:00 | Summary\n\nHashtags\n#Base44 #AIAppBuilder #VibeCoding\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "The Diary Of A CEO",
@@ -75,20 +86,9 @@
     {
       "channel": "Jay Shetty Podcast",
       "priority": "low",
-      "videoId": "28qT0ycz-DE",
-      "publishedAt": "2026-11-18T16:30:11Z",
-      "title": "Give Me 18 Minutes and You'll Finally Let Go",
-      "url": "https://www.youtube.com/watch?v=28qT0ycz-DE",
-      "durationSeconds": 1104,
-      "duration": "18:24",
-      "description": "Most of us already know when something isn't working. The hard part is not starting over. It's letting go.\n\nIn this episode, Jay Shetty talks about why we hold on to relationships, jobs and dreams we have already outgrown. He explains the bias that makes a loss feel about twice as strong as an equal gain, and the trap that keeps us paying for years we have already spent.\n\nHe shares the one question that removes nostalgia from a hard decision, and why what we really hold on to is often the person we got to be inside a situation, not the situation itself.\n\nAnd he talks about the hidden cost of staying, what research on regret says we regret most over time, and why a feeling is not an instruction.\n\nLearn why your brain protects a life you no longer want. And learn the question to ask before you stay in anything.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 Why letting go is the hard part\n1:42 Why your brain fights good decisions\n3:11 The years you already spent\n4:24 Would you choose it again today?\n5:56 Who you were inside it\n9:36 There isn't one perfect life\n10:45 How to know a risk is worth it\n13:34 Stop treating feelings as instructions\n16:02 Why you can't go back\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://jayshettypodcast.com/Netflix\nSpotify - https://jayshettypodcast.com/Spotify\n\nFull Episode With Jay Shetty:\nhttps://youtu.be/ht9Qvy0A9DI\n\nEpisode Resources:\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
-    },
-    {
-      "channel": "Jay Shetty Podcast",
-      "priority": "low",
       "videoId": "h4V7-RZjq5c",
       "publishedAt": "2026-11-19T16:30:29Z",
-      "title": "Alex Cooper: The One Who Comes Out on Top Is Always the VILLAIN",
+      "title": "Alex Cooper on Barstool, Call Her Daddy and Being Called a Bad Friend",
       "url": "https://www.youtube.com/watch?v=h4V7-RZjq5c",
       "durationSeconds": 1786,
       "duration": "29:46",
