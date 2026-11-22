@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-11-22T17:03:52.577582Z",
+  "collectedAt": "2026-11-22T22:25:31.535326Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-21T15:03:52.577582Z",
+  "windowStart": "2026-11-21T20:25:31.535326Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 4,
+  "videoCount": 3,
   "videos": [
     {
       "channel": "Krish Naik",
@@ -16,17 +16,6 @@
       "durationSeconds": 2707,
       "duration": "45:07",
       "description": "Checkout Tiger Cloud here:-https://fandf.co/3UK4S1P\n\nIn this video, we explore how to manage, analyze, and query high-volume time-series data at scale using Tiger Cloud from Tiger Data—powered by PostgreSQL and the TimeScale DB extension.\n\nWe set up a managed cloud database via CLI and MCP, execute queries over 1.7 million rows of IoT sensor data, implement automated anomaly detection, optimize performance with hypertables and continuous aggregates, perform columnar data compression, run database forks, and construct a hybrid semantic search engine for AI applications.\n\n\nTimestamps:\n00:00 - Introduction & Real-Time Data Challenges\n00:52 - What is Tiger Cloud? (PostgreSQL + TimeScale DB)\n02:02 - Overview of the Hands-on Implementation\n02:57 - Creating a Compute Service on Tiger Cloud\n04:20 - Setting up Tiger CLI & MCP (Model Context Protocol) Server\n05:42 - Integrating Tiger Cloud Service with Devon AI Coding Agent\n06:47 - Generating 1.7 Million Rows of IoT Sensor Data\n07:56 - Applying Optimized Schema, Foreign Keys & Validation Constraints\n08:35 - Understanding Hypertables and Automated Partitioning\n09:59 - Planting Sensor Faults & Seasonality-Adjusted Anomaly Detection\n10:40 - Benchmarking Raw Hypertables vs. Continuous Aggregates\n11:31 - Columnar Compression for Historical Data (~70% Storage Reduction)\n12:06 - Database Forking & Running Isolated Retention Policies\n13:33 - AI Hybrid Search Implementation (EV Station Maintenance Data)\n13:46 - Sparse Vector (BM25) vs. Dense Vector (Semantic) Search\n14:09 - Generating Vector Embeddings with Local Models & HNSW Indexing\n14:46 - Running Hybrid Search Queries using Reciprocal Rank Fusion (RRF)\n15:50 - Summary & Claiming Your $1,000 Free Tiger Cloud Credit"
-    },
-    {
-      "channel": "Raj Shamani",
-      "priority": "medium",
-      "videoId": "8C32XBcvfh8",
-      "publishedAt": "2026-11-21T15:39:25Z",
-      "title": "How Black Markets Secretly Run A Third Of The World | Mariana Van Zeller | FO591 Raj Shamani",
-      "url": "https://www.youtube.com/watch?v=8C32XBcvfh8",
-      "durationSeconds": 8800,
-      "duration": "2:26:40",
-      "description": "Get your hand-picked playbook here: https://www.figuringout.co/pdf/fo-591\n\n--------------\n\nGuest Suggestion Form: https://forms.gle/bnaeY3FpoFU9ZjA47\n\n--------------\n\nDesign Your Own Podcast Episode: https://forms.gle/sx8iyUF9vnqhgvru7\n\n--------------\n\nDisclaimer: This video is intended solely for educational purposes and opinions shared by the guest are her personal views. We do not intent to defame or harm any person/ brand/ product/ country/ profession mentioned in the video. Our goal is to provide information to help audience make informed choices. The media used in this video are solely for informational purposes and belongs to their respective owners.\n\n---------------\n\nOrder 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nFollow Our WhatsApp Channel: https://www.whatsapp.com/channel/0029VaokF5x0bIdi3Qn9ef2J\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nTimestamps - \n\n00:00 — Intro\n03:28 — Mariana van Zeller: Inside the World's Biggest Black Markets\n07:40 — How 9/11 Changed Her Career & Led Her to Investigative Journalism\n10:27 — Why She Moved to Syria & Began Investigating Black Markets\n13:57 — The 3 Biggest Black Markets: Drugs, Scams & Human Trafficking\n19:20 — Inside the Global Scam Economy & Human Trafficking Networks\n22:59 — Fake Medicines, Drug Addiction & The Business of Illegal Drugs\n33:51 — Inside Mexico's Drug Cartels & A Secret Fentanyl Lab\n48:13 — America's Opioid Crisis & The Billion-Dollar Drug Trade\n1:08:39 — Inside Cartel USA: How American Distributors Work With Mexican Cartels\n1:23:55 — Where Do Billions in Criminal Profits Go? The Story of El Chapo\n1:30:19 — How She Gets Drug Lords, Criminals & Hitmen to Talk\n1:45:26 — Romance Scams: How Criminals Use Fake Identities to Steal Millions\n1:50:10 — Trapped in Niger: How a Military Coup Put Her Team in Danger\n1:56:41 — Inside Syria's Foreign Fighter Networks & The Rise of ISIS\n2:07:10 — Understanding Criminal Psychology & The Reality of Black Markets\n2:19:24 — Inside the Mind of a Contract Killer\n2:21:45 — The Personal Cost of Investigating the World's Most Dangerous Criminals\n2:23:53 — What's Next for Mariana van Zeller & The Hidden Third\n2:24:27 — One Advice No One Should Follow\n2:25:59 — Behind the Scenes\n2:26:23 — Outro\n\n---------------\n\nIn today's episode, we sit down with Mariana van Zeller - investigative journalist behind National Geographic's Trafficked and the podcast The Hidden Third who has spent two decades reporting from inside the world's most dangerous black markets.\n\nWe discuss the \"hidden third\" the drug, scam and trafficking economy that makes up a third of global GDP and why crushing inequality is driving it. Mariana breaks down how drug cartels really operate, the scam epidemic stealing $400 million a day, why nobody is born a monster, how Portugal actually solved its addiction crisis, and the harrowing story of being trapped by a military coup in Niger. Along the way, she shares what the underworld taught her about trust, empathy and human nature.\n\nEye-opening, humane and unforgettable this one will change how you see the world.\n\nSubscribe for more such conversations.\n\nFollow Mariana van Zeller Here:\nInstagram: https://www.instagram.com/marianavz/\nLinkedIn: https://www.linkedin.com/in/mariana-van-zeller-4aa89774/\nX: https://x.com/MarianaVZ\n\n---------------\n\nAbout Raj Shamani\nRaj Shamani is an entrepreneur and the host of the Figuring Out Podcast. He sits down with experts, athletes, celebrities, billionaires, and world leaders to break down how they actually win: money, business, mindset, relationships, and life. He's also a bestselling author, speaker, and angel investor. His work sits at the intersection of business, psychology, and human behaviour.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#podcast #FiguringOut #RajShamani #national #world #black #market #economy #global \n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
     },
     {
       "channel": "Think School",
@@ -44,7 +33,7 @@
       "priority": "low",
       "videoId": "ViNJ-mIkg-M",
       "publishedAt": "2026-11-21T22:15:27Z",
-      "title": "Weight Loss Scientist: The Shocking Thing Your Brain Does After You Diet",
+      "title": "Weight Loss Scientist: Why Losing Weight Makes You Gain It Back",
       "url": "https://www.youtube.com/watch?v=ViNJ-mIkg-M",
       "durationSeconds": 2347,
       "duration": "39:07",
