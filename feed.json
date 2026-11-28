@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-11-27T19:53:52.282245Z",
+  "collectedAt": "2026-11-28T08:52:25.698515Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-26T17:53:52.282245Z",
+  "windowStart": "2026-11-27T06:52:25.698515Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Krish Naik",
@@ -49,6 +49,17 @@
       "durationSeconds": 821,
       "duration": "13:41",
       "description": "Discover Claude Duet, an exciting way to work alongside AI and improve your coding workflow!\n\nIn this video, we'll explore how Claude Duet works, its key features, and how it can help developers collaborate with AI to build software faster and smarter.\n\nWhether you're a beginner, developer, or AI enthusiast, this video will help you understand the potential of AI-powered coding collaboration.\n\n🔥 Watch till the end to see how AI can transform your development workflow!\n\nTopics Covered:\n- What is Claude Duet?\n- How Claude Duet works\n- Key features and capabilities\n- AI-powered coding workflow\n- How developers can use it\n\nSubscribe to AI with Thiru for more AI tools, tutorials, and the latest AI developments.\n \nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/VLLM_Basics.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nClaude Duet, What is Claude Duet, Claude Duet Explained, Claude Duet Tutorial, Claude AI Latest Features, Anthropic AI Tools, Best AI Coding Tools, AI Coding Assistant, AI Tools for Developers, AI Development Workflow, AI Coding Collaboration, Coding with AI, AI Programming, AI Tools 2026, AI with Thiru, Tamil AI Tutorial\n\n#ClaudeDuet #ClaudeAI #Anthropic #AITools #AICoding #CodingAssistant #ArtificialIntelligence #AIforDevelopers #AITamil #AIwithThiru"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "L21L4ugR23M",
+      "publishedAt": "2026-11-28T06:53:02Z",
+      "title": "Complete AI System Design And Infrastructure Bootcamp- Learn AI The Right Way in 2027",
+      "url": "https://www.youtube.com/watch?v=L21L4ugR23M",
+      "durationSeconds": 867,
+      "duration": "14:27",
+      "description": "🚀 Building an AI demo is exciting. But how do you turn it into a reliable, secure, scalable, and affordable application?\n\nIn this video, I introduce our Complete AI System Design and Infrastructure Bootcamp and explain why building production AI requires more than connecting a model and writing a prompt.\n\nWe discuss what happens when thousands of users arrive together, how to ground AI answers, control agent permissions, manage memory, and monitor applications. We also explore two connected areas: application infrastructure and AI infrastructure.\n\n🔗 Explore the syllabus and enroll:\nhttps://www.krishnaik.in/liveclass2/Ai_System_Design_Infra?id=15\n\n📅 Starts: January 3, 2027\n⏳ Duration: 6.5 months\n🕗 Live classes: Saturdays and Sundays, 8 PM–11 PM IST\n\n\n📚 What you’ll learn:\n\n✅ Modern AI software development workflows\n✅ AI coding agents, including Claude Code, Cursor, and OpenAI Codex\n✅ Always-on agents, tools, memory, and AgentOps\n✅ Inference engineering and GPU optimization\n✅ Batching, caching, quantization, and model serving\n✅ Self-hosting and fine-tuning open models\n✅ On-device AI and multimodal RAG\n✅ AI security, evaluation, observability, and deployment\n\n🛠️ Projects include:\n\n🔹 Self-hosting and fine-tuning an LLM\n🔹 Running an LLM on mobile devices\n🔹 Building multimodal enterprise document intelligence\n🔹 Developing an enterprise lead management system\n🔹 Building an AI receptionist\n🔹 Creating a desktop voice dictation SaaS application\n\nThe bootcamp focuses on practical implementation—understanding requirements, making architecture decisions, building projects, and evaluating how systems behave under real-world constraints.\n\n⏱️ Timestamps:\n\n00:00 Bootcamp announcement\n00:47 Why an AI demo is only the beginning\n02:35 Learning through practical implementation\n03:06 Schedule and preparatory webinars\n04:51 Handling traffic and scaling requests\n05:33 Grounding AI answers with evidence\n05:59 Controlling AI agent actions\n06:32 Application infrastructure and AI infrastructure\n07:26 Observability and tracing\n07:54 AI memory and user boundaries\n08:26 Introducing the curriculum\n09:36 Meet the mentors\n10:34 Learning journey and projects\n13:09 Enrollment, pricing, and closing\n\n💬 Which part of AI system design do you find most challenging—scaling, cost, reliability, or security? Share your thoughts in the comments.\n\n👍 Like, subscribe, and turn on notifications for more practical AI engineering tutorials.\n\n#AISystemDesign #AIInfrastructure #AIEngineering #AgenticAI #ProductionAI #KrishNaik"
     },
     {
       "channel": "Think School",
